@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Testimonianza di Ida Marcheria del 2006. Una ragazza del Kanàda</title>
+                <title>Testimonianza di Ida Marcheria del 2006. Una ragazza del Kanàda.</title>
             </titleStmt>
             <editionStmt>
                 <edition>Lavoro realizzato per la tesi di Laurea Triennale in Informatica Umanistica, Università di Pisa.</edition>
@@ -1160,7 +1160,7 @@
     </standOff>
     <text>
         <body>
-            <div type="extraIntervista">
+            <div type="extraIntervista1">
                 <incident>
                     <desc>Rumori del registratore </desc>
                 </incident>
@@ -1169,7 +1169,7 @@
                 <u who="#AS" xml:id="a2" synch="#tlp3"><vocal><desc>mmm</desc></vocal></u>
                 <u who="#GP" xml:id="g2" synch="#tlp4">Mi trovo bene</u>
             </div>
-            <div type="intervista">  
+            <div type="intervista1">  
                 <u who="#AS" xml:id="a3" synch="#tlp5">Quindi voi arrivaste e foste separate dai maschi della vostra famiglia comunque</u>
                 <u who="#MARCHERIA" xml:id="m1" synch="#tlp6"><emph>Sì e anche dalle femmine</emph><vocal> <desc>ride</desc></vocal></u>
                 <u who="#AS" xml:id="a4" synch="#tlp7">E anche 
@@ -1845,7 +1845,7 @@
                     <desc>voce di un uomo blocca la conversazione</desc>
                 </incident>
             </div>
-            <div type="extraIntervista">  
+            <div type="extraIntervista2">  
                 <u who="Maikele" xml:id="k1" synch="#tlp131"><gap reason="inaudible" extent="5" unit="word"/></u>  
                 <u who="#MARCHERIA" xml:id="m59" synch="#tlp132">Che cosa? Sì, grazie! Ma loro vanno via tutti?</u>
                 <u who="Maikele" xml:id="k2" synch="#tlp133">Sì! Perché?</u>
@@ -1884,7 +1884,7 @@
                 </incident>
                 <pause type="medium" dur="PT9s"/>
             </div>
-            <div type="intervista">    
+            <div type="intervista2">    
                 <u who="#MARCHERIA" xml:id="m70" synch="#tlp153">Dove eravamo?
                     <anchor synch="#tls61"/>Non mi ricordo più.
                     <anchor synch="#tls62"/>
@@ -2116,11 +2116,11 @@
                     </desc>
                 </incident>
             </div> 
-            <div type="extraIntervista">   
+            <div type="extraIntervista3">   
                 <u who="VOCE_DONNA" xml:id="d1" synch="#tlp204">Buonasera!</u>
                 <u who="#MARCHERIA" xml:id="m94" synch="#tlp205">Buonasera! Buonasera!</u>
             </div>
-            <div type="intervista">    
+            <div type="intervista3">    
                 <u who="#MARCHERIA" xml:id="m95" synch="#tlp206">Il controllo che non rubi niente, che non porti via niente. 
                     Con tutto ciò si rubava e si portava via.
                 </u>
@@ -2248,7 +2248,7 @@
                     </desc>
                 </incident>
             </div>
-            <div type="extraIntervista">    
+            <div type="extraIntervista4">    
                 <u who="#MARCHERIA" xml:id="m108" synch="#tlp232">Ciao Nanny!</u>
                 <u who="#AS" xml:id="a56" synch="#tlp233">
                     <anchor synch="#tls280"/>Buonasera.
@@ -2275,7 +2275,7 @@
                 </u>
                 <u who="NANNY" xml:id="na3" synch="#tlp239">Sì.</u>
             </div>
-            <div type="intervista">    
+            <div type="intervista4">    
                 <u who="#MARCHERIA" xml:id="m112" synch="#tlp240"><del type="reformulation">Il</del>Se anche fosse stato dico,
                     <gap reason="inaudible" extent="2" unit="word"/> 
                     parlavo per me per un bel po',<vocal><desc>eh</desc></vocal>?
@@ -2298,7 +2298,7 @@
                     </desc>
                 </incident>
             </div>
-            <div type="intervista">    
+            <div type="intervista5">    
                 <u who="#GP" xml:id="g58" synch="#tlp245">Grazie, tanto io e lei dividiamo tutto!</u>
                 <u who="#MARCHERIA" xml:id="m115" synch="#tlp246"><vocal><desc>Ah</desc></vocal> sì! No, mai io</u>
                 <u who="#GP" xml:id="g59" synch="#tlp247">Se ce lo procura 
@@ -2350,7 +2350,7 @@
                     <del type="correction">il <foreign xml:lang="DE">Kapò</foreign></del> la <foreign xml:lang="DE">Kapò</foreign> anche
                 </u>
             </div>
-            <div type="extraIntervista">  
+            <div type="extraIntervista5">  
                 <kinesic>
                     <desc>Una donna porta dei cioccolatini</desc>
                 </kinesic>       
@@ -2366,7 +2366,7 @@
                 </u>
                 <u who="#AS" xml:id="a61" synch="#tlp262">Chiamiamolo assaggino!</u>
             </div>
-            <div type="intervista">    
+            <div type="intervista6">    
                 <u who="#GP" xml:id="g63" synch="#tlp263">Che differenza c'è tra la <foreign xml:lang="PL">Blockova</foreign> e la 
                     <foreign xml:lang="DE">Kapò</foreign>?
                 </u>
@@ -2498,7 +2498,7 @@
                     <desc>squilla il telefono</desc>
                 </incident>
             </div> 
-            <div type="intervista">   
+            <div type="intervista7">   
                 <u who="#GP" xml:id="g72" synch="#tlp293">la parola, diciamo quando è arrivata?</u>
                 <u who="#MARCHERIA" xml:id="m139" synch="#tlp294"><vocal><desc>Mmm</desc></vocal>, sì! Perché io cercavo mia mamma,<pause type="short"/> 
                     in un certo momento andavo e cercavo.<pause type="short"/>Una <del type="repetition">una</del> s'era stufata 
@@ -2522,7 +2522,7 @@
                     traumatizzata.<pause type="long" dur="PT24s"/>
                 </u>
             </div>
-            <div type="extraIntervista">    
+            <div type="extraIntervista6">    
                 <kinesic>
                     <desc>arriva il figlio</desc>
                 </kinesic>  
@@ -2561,7 +2561,7 @@
                     <desc>il registratore viene spento</desc>
                 </incident>
             </div>
-            <div type="intervista">
+            <div type="intervista8">
                 <u who="#MARCHERIA" xml:id="m155" synch="#tlp308">Come funziona?</u>
                 <u who="#AS" xml:id="a70" synch="#tlp309">E la comprensione di come funziona è stato</u>
                 <u who="#MARCHERIA" xml:id="m156" synch="#tlp310">Allucinante! Per me è stato devastante, è dire poco!<pause type="short"/> 
@@ -3097,12 +3097,12 @@
                     <desc>squilla un telefono</desc>
                 </incident>
             </div>
-            <div type="extraIntervista">    
+            <div type="extraIntervista7">    
                 <u who="#MARCHERIA" xml:id="m216" synch="#tlp443">Chi è? È il nostro?</u>
                 <u who="VOCE_DONNA" xml:id="v_d2" synch="#tlp444">Sono io, sono io.</u>
                 <u who="#MARCHERIA" xml:id="m217" synch="#tlp445"><vocal><desc>Ah</desc></vocal>, si?</u>
             </div>
-            <div type="intervista">   
+            <div type="intervista9">   
                 <u who="#GP" xml:id="g110" synch="#tlp446">Quasi un mese?</u>
                 <u who="#MARCHERIA" xml:id="m218" synch="#tlp447">Sì! Lì abbiamo perso veramente 
                     <anchor synch="#tls179"/>la   
@@ -3686,14 +3686,14 @@
                     <desc>squilla un telefono</desc>
                 </incident>
             </div>
-            <div type="extraIntervista">
+            <div type="extraIntervista8">
                 <u who="VOCE_UOMO" xml:id="vu1" synch="#tlp559">Sei tu?<gap reason="inaudible" extent="5" unit="word"/></u>
                 <u who="#MARCHERIA" xml:id="m269" synch="#tlp560">No!</u>
                 <u who="VOCE_UOMO" xml:id="vu2" synch="#tlp561">Ho mandato un messaggio ad Alberto perché<gap reason="inaudible" extent="5" unit="word"/></u>
                 <u who="#MARCHERIA" xml:id="m270" synch="#tlp562">Ma va!</u>
                 <u who="VOCE_UOMO" xml:id="vu3" synch="#tlp563">Sì, pronto? Ciao, come stai?<gap reason="inaudible" extent="3" unit="word"/></u>
             </div>
-            <div type="intervista">    
+            <div type="intervista10">    
                 <u who="#AS" xml:id="a144" synch="#tlp564">L'idea è quella che, se questa cosa è possibile, per l'animo umano, perché quelli erano amati 
                     <pause type="short"/> da madri, <pause type="short"/>fatto parte di famiglie <vocal><desc>ecc. ecc</desc></vocal>. 
                     L'idea mia è: se questo è stato possibile per degli altri esseri umani, allora ci deve essere un cammino
