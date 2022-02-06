@@ -1160,7 +1160,6 @@
     </standOff>
     <text>
         <body>
-            <ab/>
             <div type="extraIntervista1">
                 <incident>
                     <desc>Rumori del registratore </desc>
@@ -2293,8 +2292,6 @@
                 </incident>
             </div>
          
-            <ab type="ricambio cassetta" />  
-
             <div type="intervista5">    
                 <u who="#GP" xml:id="g58" synch="#tlp245">Grazie, tanto io e lei dividiamo tutto!</u>
                 <u who="#MARCHERIA" xml:id="m115" synch="#tlp246"><vocal><desc>Ah</desc></vocal> Sì? No, mai io</u>
@@ -3717,12 +3714,6 @@
                 <incident>
                     <desc>rumore del registratore</desc>
                 </incident>
-            </div>     
-
-            
-            <ab type="cambio cassetta" />
-            
-            <div type="intervista10">    
                 <u who="#GP" xml:id="g136" synch="#tlp568">Perché hanno visto svastiche di nuovo <del type="reformulation">sui</del> 
                     <anchor synch="#tls229"/><gap reason="inaudible" extent="3" unit="word"/> e hanno parlato per quello. 
                     <anchor synch="#tls230"/>  
