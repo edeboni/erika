@@ -1160,6 +1160,7 @@
     </standOff>
     <text>
         <body>
+            <ab/>
             <div type="extraIntervista1">
                 <incident>
                     <desc>Rumori del registratore </desc>
@@ -1171,7 +1172,7 @@
             </div>
             <div type="intervista1">  
                 <u who="#AS" xml:id="a3" synch="#tlp5">Quindi voi arrivaste e foste separate dai maschi della vostra famiglia comunque</u>
-                <u who="#MARCHERIA" xml:id="m1" synch="#tlp6"><emph>Sì e anche dalle femmine</emph><vocal> <desc>ride</desc></vocal></u>
+                <u who="#MARCHERIA" xml:id="m1" synch="#tlp6"><emph>Sì e anche dalle femmine</emph> <vocal><desc>ride</desc></vocal></u>
                 <u who="#AS" xml:id="a4" synch="#tlp7">E anche 
                     <anchor synch="#tls1"/>da ma
                     <anchor synch="#tls2"/>  
@@ -1179,10 +1180,10 @@
                 <u who="#MARCHERIA" xml:id="m2" synch="#tlp8">
                     <anchor synch="#tls1"/><del type="repetition">Siamo entra</del>
                     <anchor synch="#tls2"/>
-                    <vocal><desc> ride </desc></vocal>Siamo entrate <emph>ben poche ragazze</emph><vocal><desc>eh</desc></vocal>
+                    <vocal><desc> ride </desc></vocal>Siamo entrate <emph>ben poche ragazze</emph> <vocal><desc>eh</desc></vocal>
                 </u>
                 <u who="#AS" xml:id="a5" synch="#tlp9">Cioè lei e sua sorella foste divise, anche voi due?</u>
-                <u who="#MARCHERIA" xml:id="m3" synch="#tlp10">No <del type="repetition">no</del> <del type="repetition">no</del> <del type="repetition">no</del> 
+                <u who="#MARCHERIA" xml:id="m3" synch="#tlp10">No. <del type="repetition">no</del> <del type="repetition">no</del> <del type="repetition">no</del> 
                     Noi siamo state sempre insieme, ma di tutte le donne del trasporto, siamo entrate, sarà stato una decina
                 </u>
                 <u who="#AS" xml:id="a6" synch="#tlp11">E quante sareste state nel trasporto? 
@@ -1192,32 +1193,32 @@
                 <u who="#MARCHERIA" xml:id="m4" synch="#tlp12"> 
                     <anchor synch="#tls3"/>Eh, tante.
                     <anchor synch="#tls4"/>
-                    <emph>C'erano i vagoni pieni</emph> Vagoni che<del type="repetition">che</del> 
+                    <emph>C'erano i vagoni pieni.</emph> Vagoni che<del type="repetition">che</del> 
                     hanno attaccato a <placeName ref="#FI">Firenze</placeName>, hanno attaccato man mano che <vocal><desc>mmm</desc></vocal>
                 </u>
                 <u who="#GP" xml:id="g3" synch="#tlp13">Aumentavano?</u>
-                <u who="#MARCHERIA" xml:id="m5" synch="#tlp14">Aumentavano, <emph>sì</emph> Infatti, le nostre cugine, altra gente, tutti da <placeName>Firenze</placeName> 
-                    che hanno <del type="truncation">pre</del><vocal><desc>mmm</desc></vocal> 
-                    sono <del type="truncation">en</del> qualcuna è entrata, ma le altre le hanno fatte salire su un camion dicendo 
+                <u who="#MARCHERIA" xml:id="m5" synch="#tlp14">Aumentavano, <emph>sì!</emph> Infatti, le nostre cugine, altra gente, tutti da <placeName>Firenze</placeName>, 
+                    <del type="riformulation">che hanno</del> <del type="truncation">pre</del><vocal><desc>mmm</desc></vocal> 
+                     <del type="truncation">sono en</del> qualcuna è entrata, ma le altre le hanno fatte salire su un camion dicendo 
                     <del type="reformulation">che loro dovevano andare</del> 
-                    che noi dovevamo andarci a piedi perché eravamo giovani<pause type="short"/> 
+                    che noi dovevamo andarci a piedi perché eravamo giovani.<pause type="short"/> 
                     Quando prima della selezione, che c'era l'interprete lì e uno in pigiama, dicevo io, che era 
-                    <q type="spoken" who="#MARCHERIA" toWhom="#Stella">Hai visto questo pazzo in pigiama di mattina?.</q> 
-                    <q type="spoken" who="#interprete" toWhom="#MARCHERIA">E quanti anni hai?</q>
+                    <q type="spoken" who="#MARCHERIA" toWhom="#Stella">"Hai visto questo pazzo in pigiama di mattina?"</q> 
+                    <q type="spoken" who="#interprete" toWhom="#MARCHERIA">"E quanti anni hai?"</q>
                     <q type="spoken" who="#MARCHERIA" toWhom="#interprete">
-                        <listPerson><person><age value="14" unit="year" notAfter="1943">Quattordici</age></person></listPerson></q> 
+                        <listPerson><person><age value="14" unit="year" notAfter="1943">"Quattordici"</age></person></listPerson></q> 
                         E m'ha dato una spinta. 
                     <q type="spoken" who="#interprete" toWhom="#MARCHERIA">
-                        <emph>No! Tu ne hai<listPerson><person><age value="16" unit="year" notAfter="1943">sedici</age></person></listPerson>vai di qua></emph></q>
+                        <emph>"No! Tu ne hai <listPerson><person><age value="16" unit="year" notAfter="1943"> sedici, </age></person> </listPerson> vai di qua!"</emph></q>
                         E a mia sorella ha detto:
-                    <q type="spoken" who="#interprete" toWhom="#Stella">E tu quanti?</q>
+                    <q type="spoken" who="#interprete" toWhom="#Stella">"E tu quanti?"</q>
                     <q type="spoken" who="#Stella" toWhom="#interprete"><del type="reformulation">E io non</del>
-                        Presto<listPerson><person><age value="13" unit="year" notAfter="1943">tredici</age></person></listPerson></q> 
+                        "Presto<listPerson><person><age value="13" unit="year" notAfter="1943"> tredici"</age></person></listPerson></q> 
                     <q type="spoken" who="#interprete" toWhom="#Stella">
-                        <emph>No, 
+                        <emph>"No, 
                             <orig>c'hai</orig>
                             <reg>hai</reg>
-                        <listPerson><person><age value="15" unit="year" notAfter="1943">quindici</age></person></listPerson></emph></q>e
+                        <listPerson><person><age value="15" unit="year" notAfter="1943">quindici"</age></person></listPerson></emph></q>e
                         <choice>
                           <sic>gli</sic> 
                           <corr>le</corr>
@@ -1231,23 +1232,20 @@
                         <sic>gli</sic> 
                         <corr>le</corr>
                     </choice>  
-                    ho detto 
-                    <choice>
-                        <sic>alla</sic> 
-                        <corr>a</corr>
-                    </choice>  
+                    ho detto <del type="repetition">alla</del>
                     <q type="spoken" who="#MARCHERIA" toWhom="#Stella">
-                        Ma questo è matto, vuol sapere più di me quanti anni ho, non mi hai mai vista, mai conosciuta?</q>
+                    "Ma questo è matto, vuol sapere più di me quanti anni ho, non mi hai mai vista, mai conosciuta?"</q>
                     <shift feature="voice" new="breath"/>E <del type="repetition">e</del> 
-                    non sapevamo come<pause type="short"/> 
+                    non sapevamo come,<pause type="short"/> 
                     la mamma era già sul camion.
                     <choice>
                         <sic>Gli</sic> 
                         <corr>Le</corr>
-                    </choice>ho detto 
-                    <q type="spoken" who="#MARCHERIA" toWhom="#AN">Mamma, ci hanno detto che dobbiamo venire</q> 
+                    </choice>
+                    ho detto 
+                    <q type="spoken" who="#MARCHERIA" toWhom="#AN">"Mamma, ci hanno detto che dobbiamo venire"</q> 
                     e lei ha detto 
-                    <q type="spoken" who="#AN" toWhom="#MARCHERIA"> Mi raccomando, cercate di stare sempre insieme</q> 
+                    <q type="spoken" who="#AN" toWhom="#MARCHERIA"> "Mi raccomando, cercate di stare sempre insieme"</q> 
                         E siamo state sempre insieme<pause type="short"/>
                         <shift feature="voice" new="creak"/> Ma<pause type="short"/> 
                         l'abbiamo saputo dopo <del type="reformulation">che andavano, che potevano</del>
@@ -1266,7 +1264,7 @@
                     <anchor synch="#tls6"/>
                     italiano
                 </u>
-                <u who="#GP" xml:id="g5" synch="#tlp19"><vocal><desc>Ah</desc></vocal>parlava italiano, 
+                <u who="#GP" xml:id="g5" synch="#tlp19"><vocal><desc>Ah</desc></vocal>Parlava italiano, 
                     <anchor synch="#tls7"/>che
                     <anchor synch="#tls8"/>
                     vi ha salvato la vita in pratica
@@ -1290,7 +1288,7 @@
                     <anchor synch="#tls10"/>
                 </u>  
                 <u who="#MARCHERIA" xml:id="m11" synch="#tlp25"><del type="reformulation">Perchè</del><vocal><desc>eh</desc></vocal>
-                    perché ognuno doveva lavorare, non c'erano disoccupati ad <placeName ref="#AU"> Auschwitz</placeName>,<del type="reformulation"> chi</del> c'erano gli 
+                    Perché ognuno doveva lavorare, non c'erano disoccupati ad <placeName ref="#AU"> Auschwitz</placeName>,<del type="reformulation"> chi</del> c'erano gli 
                     <listPerson><person><occupation>interpreti, i calzolai, i barbieri</occupation></person></listPerson> <del type="reformulation"> e ogni d'uno</del>
                     <listPerson><person><occupation>i dentisti.</occupation></person></listPerson>  
                     I dentisti andavano molto in auge e dovevano levare i denti a tutti<pause type="short"/> morti, vivi, perché se c'avevi i denti d'oro 
@@ -1304,7 +1302,7 @@
                 </u>
                 <u who="#MARCHERIA" xml:id="m12" synch="#tlp27">E certo! Sì! E i dottori, ognuno aveva il suo mestiere, insomma. Ti domandavano cosa sapevi fare.</u>
                 <u who="#GP" xml:id="g8" synch="#tlp28">Qui cosa avete detto? <emph>Eravate due bambine</emph></u>
-                <u who="#MARCHERIA" xml:id="m13" synch="#tlp29">Ma per dire la verità non ce l'hanno chiesto. <del type="reformulation">Ci hanno mandato</del> 
+                <u who="#MARCHERIA" xml:id="m13" synch="#tlp29">Ma per dire la verità<del type="reformulation">non ce l'hanno chiesto ci hanno mandato</del> 
                     non ce l'hanno chiesto.<pause type="short"/>  
                     Sì, è stato una cosa atroce questo primo giorno. Intanto ci hanno fatto andare alla 
                     <choice>
@@ -1316,8 +1314,8 @@
                         <sic>zauna</sic>
                         <corr>sauna</corr> 
                     </choice>
-                    ci hanno detto di spogliarci, una delle cose terribili<pause type="short"/> una delle cose più <vocal><desc>mm</desc></vocal>
-                    non dico più perché <vocal><desc>eh</desc></vocal>tutto era terribile che accumulate facevano montagne<pause type="short"/>
+                    ci hanno detto di spogliarci, una delle cose terribili<pause type="short"/> una delle cose più, <vocal><desc>mm</desc></vocal>
+                    non dico più perché <vocal><desc>eh</desc></vocal>tutto era terribile che accumulate facevano montagne,<pause type="short"/>
                     ci hanno detto di spogliarci perché dobbiamo fare la doccia e <del type="repetition">ci hanno fatto</del> 
                     ci hanno fatto mettere tutti i 
                     <listObject><object><objectIdentifier><objectName>vestiti, le scarpe, le cose</objectName></objectIdentifier></object></listObject> 
@@ -1328,17 +1326,17 @@
                     <orig>c'avevi</orig>
                     <reg>avevi</reg>,
                     io non sapevo se dirgli, cosa dirgli, ho detto 
-                    <emph>sedici</emph> diciamo sedici, <emph>se quello 
+                    <emph>sedici,</emph> diciamo sedici, <emph>se quello 
                     <orig>m'ha</orig>
                     <reg>mi ha</reg>
-                    detto così</emph>
+                    detto così!</emph>
                 </u>
                 <u who="#AS" xml:id="a9" synch="#tlp30">Già era entrata nella logica del campo?</u>
                 <u who="#MARCHERIA" xml:id="m14" synch="#tlp31"><vocal><desc>Eh</desc></vocal>Sì, perché non sapevo come, cosa</u>
                 <u who="#AS" xml:id="a10" synch="#tlp32">La logica dell'illogica.</u>
-                <u who="#MARCHERIA" xml:id="m15" synch="#tlp33">La logica dell'illogica, sì <del type="repetition">sì</del> 
-                    <emph>E tutte nude</emph> E gli ufficiali lì, 
-                    <del type="reformulation">noi che ci mettevamo.</del> Una delle cose più, che io ricordo con 
+                <u who="#MARCHERIA" xml:id="m15" synch="#tlp33">La logica dell'illogica, sì. <del type="repetition">sì</del> 
+                    <emph>E tutte nude!</emph> E gli ufficiali lì! 
+                    <del type="reformulation">Noi che ci mettevamo.</del> Una delle cose più, che io ricordo con 
                     <vocal><desc>mm</desc></vocal> la vergogna di queste qui, 
                     <del type="reformulation"> ci hanno fatto, ci hanno levato,</del>
                     ci hanno tagliato i capelli<pause type="short"/> 
@@ -1364,8 +1362,10 @@
                         <corr>fondoschiena</corr> 
                     </choice>,
                     che io non lo so, e noi morivamo 
-                    <orig>de</orig>
-                    <reg>di</reg>,
+                    <orig>
+                        de
+                    </orig>
+                    <reg>di</reg>
                     <del type="repetition">de</del> 
                     <emph>vergogna! Morivamo di vergogna!</emph> 
                     Cercavamo di ammucchiarci per, <del type="repetition">per</del><del type="riformulation">non far,</del> 
@@ -1383,14 +1383,14 @@
                 </u>
                 <u who="#AS" xml:id="a13" synch="#tlp38">Perché dopo di voi c'è il disincanto</u>
                 <u who="#MARCHERIA" xml:id="m18" synch="#tlp39">Sì, <del type="repetition">sì.</del><pause type="short"/> 
-                    E dopo queste quattro gocce che io credevo <del type="reformulation">un</del> una doccia, menomale dopo tanto,
+                    e dopo queste quattro gocce che io credevo <del type="reformulation">un</del> una doccia, menomale dopo tanto,
                     <vocal><desc>mmm</desc></vocal> un mese di prigione, un mese,<gap reason="inaudible" extent="1" unit="word"/> 
                     adesso c'hanno le super<pause type="short"/> 
                     carceri che non funzionano, c'hanno le cose, non son venuti a vedere, che eravamo in sei in una celletta senza 
                     un gabinetto, senza un lavandino, <del type="reformulation">senza</del> allora, no, non facevano le marce, adesso 
                     le fanno, per i delinquenti, noi ragazzini, le mamme, <del type="reformulation"> cose</del> non facevano marce, era tutto regolare 
                     <emph>quaranta giorni lì dentro!</emph><pause type="short"/> 
-                    <vocal><desc>Eh</desc></vocal><pause type="short"/>abbiamo fatto questa doccetta, fuori da questa doccia, 
+                    <vocal><desc>Eh</desc></vocal><pause type="short"/>Abbiamo fatto questa doccetta, fuori da questa doccia, 
                     fuori dalla baracca, <date when="1943-12-11"> undici dicembre</date>, la neve, <emph>nudi</emph>, 
                     senza asciugamani, bagnati,<pause type="short"/> scalzi, per andare in un'altra baracca. Abituati 
                     <del type="reformulation">col</del> con l'asciugamani caldi, col bagnetto caldo, <vocal><desc>mmm</desc></vocal> 
@@ -1399,19 +1399,19 @@
                     <incident>
                         <desc>rumore di tazze</desc>
                     </incident>
-                    lì i vestiti dei morti, i vestiti dei <unclear reason="inaudible" cert="low"> >poveri</unclear>, vestiti 
-                    <del type="repetition"> li davan</del>, li mettevano nel pangas,
+                    lì i vestiti dei morti, i vestiti dei <unclear reason="inaudible" cert="low"> poveri</unclear>, i vestiti, 
+                    <del type="repetition"> li davan</del> li mettevano nel pangas,
                     <incident>
                         <desc>rumore di passi</desc>
                     </incident>
                     li disinfettavano con il gas per via dei pidocchi e poi tutti 
-                    <orig>appacchiati</orig>
-                    <reg>ammucchiati</reg>,
-                    a te quello, a te quell'altro, l'altro e ci hanno dato<pause type="short"/>
-                    <orig>sti stracci</orig>
+                    <orig>appacchiati</orig>,
+                    <reg>ammucchiati</reg>
+                    a te quello, a te quell'altro, <del type="repetition">l'altro</del> e ci hanno dato<pause type="short"/>
+                    <orig>sti stracci</orig>.
                     <reg>questi stracci</reg>
                     
-                    <anchor synch="#tls13"/><gap reason="inaudible" extent="2" unit="word"/>.
+                    <anchor synch="#tls13"/><gap reason="inaudible" extent="2" unit="word"/>
                     <anchor synch="#tls14"/>
                 </u>
                 <u who="#GP" xml:id="g9" synch="#tlp40">
@@ -1423,11 +1423,11 @@
                     <anchor synch="#tls16"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m19" synch="#tlp41">
-                    <anchor synch="#tls15"/>Sì!<del type="repetition">Sì!</del>
+                    <anchor synch="#tls15"/>Sì! <del type="repetition">Sì!</del>
                     <anchor synch="#tls16"/>
                 </u>
                 <u who="#GP" xml:id="g10" synch="#tlp42">
-                    <anchor synch="#tls17"/><vocal><desc>Ah</desc></vocal> sì? 
+                    <anchor synch="#tls17"/><vocal><desc>Ah</desc></vocal> Sì? 
                     No, credevo abiti civili.
                     <anchor synch="#tls18"/>
                 </u>    
@@ -1446,7 +1446,7 @@
                     <anchor synch="#tls22"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m21" synch="#tlp45">
-                    <anchor synch="#tls21"/>io sono arrivata nel <date when="1943">43</date>
+                    <anchor synch="#tls21"/>Io sono arrivata nel <date when="1943">43</date>
                     <anchor synch="#tls22"/>
                     e non 
                     <anchor synch="#tls23"/>erano
@@ -1467,7 +1467,7 @@
                         <sic>casecchetta </sic>
                         <corr>casacchetta</corr>
                     </choice>
-                    verde mi sono vestita di straccetti di cotone
+                    verde, mi sono vestita di straccetti di cotone
                 </u>
                 <u who="#GP" xml:id="g13" synch="#tlp50">Leggerissima</u>
                 <u who="#MARCHERIA" xml:id="m24" synch="#tlp51"><vocal><desc>Eh</desc></vocal>Ma lì abbiamo lasciato i nostri bei cappotti, 
@@ -1512,7 +1512,7 @@
                     </choice>
                     <gap reason="inaudible" extent="1" unit="word"/> <del type="reformulation">con</del> 
                     tedesche erano, le polacche, erano le
-                    <del type="truncation"><foreign xml:lang="PL">Blockov</foreign></del>, le capo <foreign xml:lang="DE">Block</foreign>,
+                    <del type="truncation"><foreign xml:lang="PL">Blockov</foreign></del>capo <foreign xml:lang="DE">Block</foreign>,
                     <del type="reformulation">le</del> i <foreign xml:lang="DE">Kapò</foreign>, gente che sapeva, che si muoveva bene, 
                     noi eravamo le italiane, noi.
                 </u>
@@ -1520,7 +1520,7 @@
                 <u who="#MARCHERIA" xml:id="m26" synch="#tlp55">Non sapevano una parola, non <emph>sapevamo</emph>,
                     perché io non sapevo, non capivo niente, per, <del type="repetition">per</del> 
                     non perderci, <del type="reformulation">dovevamo,</del> perché <del type="reformulation">inutile che,</del> 
-                    c'hanno messo al blocco 22, ma se noi dicevamo "ventidue" nessuno capiva niente perché nessuno capiva l'italiano, 
+                    c'hanno messo al blocco 22, ma se noi dicevamo ventidue, nessuno capiva niente perché nessuno capiva l'italiano, 
                     <incident>
                         <desc>fischio</desc>
                     </incident>
@@ -1539,20 +1539,24 @@
                         <sic><foreign xml:lang="DE">snipsi fierhunder zwelf</foreign></sic>
                         <corr><foreign xml:lang="DE">siebzig vierhundert zwölf</foreign></corr>
                     </choice>,
-                    he era il mio!<emph>Certe sberlone!</emph> Perché interrompevamo.<pause type="short"/> 
+                    he era il mio! <emph>Certe sberlone!</emph> Perché interrompevamo.<pause type="short"/> 
                     Tutto era un incubo, tutto! Il freddo, gli appelli, le legnate, <del type="reformulation">la,</del> 
                     tutto, <del type="reformulation">tutto era</del> <unclear reason="inaudible" cert="low">ai miei aiuti era</unclear> 
-                    le baracche, le cose, <del type="reformulation">le</del><del type="reformulaton"> non so se voi eravate,</del> 
-                    siete andate ad <placeName ref="#AU">Auschwitz</placeName>,<emph>ma peccato</emph>, sapevo vi portavo 
+                    le baracche, le cose... <del type="reformulation">le</del><del type="reformulaton"> non so se voi eravate,</del> 
+                    Siete andate ad <placeName ref="#AU">Auschwitz</placeName>?
+                    <kinesic>
+                        <desc>si intuisce che le due intervistatrici stiano facendo segno di no</desc>
+                    </kinesic>   
+                    <emph>Ma peccato!</emph> Sapevo vi portavo 
                     <del type="correction">la fotograf</del> 
                     la cartolina delle <del type="repetition">delle</del> 
                     baracche dove stavamo. Un buco così che erano come<pause type="short"/> 
                     che adesso mettono i morti lì dentro.
                 </u>
                 <u who="#AS" xml:id="a18" synch="#tlp59">Tumulate dentro il letto.</u>
-                <u who="#MARCHERIA" xml:id="m28" synch="#tlp60">Sì, aperto davanti, però <pause type="short"/>in cinque, in sei<pause type="short"/> 
-                   <vocal><desc>Eh</desc></vocal>tutto era incubo,<emph>tutto!</emph>
-                   <shift feature="voice" new="sigh"/><unclear reason="inaudible" cert="low">non avevo un grosso aiuto</unclear>
+                <u who="#MARCHERIA" xml:id="m28" synch="#tlp60">Sì, aperto davanti, però <pause type="short"/>in cinque, in sei,<pause type="short"/> 
+                   <vocal><desc>Eh</desc></vocal>tutto era incubo, <emph>tutto!</emph>
+                   <shift feature="voice" new="sigh"/><unclear reason="inaudible" cert="low">Non avevo un grosso aiuto</unclear>
                 </u> 
                 <u who="#AS" xml:id="a19" synch="#tlp61">Che ti facevano fare di lavoro?</u>
                 <u who="#GP" xml:id="g15" synch="#tlp62">Cioè aspetta, no, <del type="reformulation">vole, volevo,</del> 
@@ -1563,18 +1567,18 @@
                 <u who="#GP" xml:id="g16" synch="#tlp64">Certo</u>
                 <u who="#MARCHERIA" xml:id="m30" synch="#tlp65">E ci hanno messo in un blocco di donne tedesche</u>
                 <u who="#GP" xml:id="g17" synch="#tlp66"><vocal><desc>Ah</desc></vocal>, ecco.</u>
-                <u who="#MARCHERIA" xml:id="m31" synch="#tlp67">Perché non avevano la stella, a triangolino
+                <u who="#MARCHERIA" xml:id="m31" synch="#tlp67">Perché non avevano la stella a triangolino
                     <anchor synch="#tls25"/>giallo
                     <anchor synch="#tls26"/> 
                     come noi, avevano uno nero, <del type="reformulation">parlavano tedesche,</del> 
-                    parlavano tedesco e erano tedesche,<pause type="short"/>erano donne tedesche.
+                    parlavano tedesco e erano tedesche, <pause type="short"/>erano donne tedesche.
                 </u>
                 <u who="#GP" xml:id="g18" synch="#tlp68">
                     <anchor synch="#tls25"/>Sì,<del type="repetition">sì</del>.
                     <anchor synch="#tls26"/>
                     Cioè vi hanno separato dalle ebree
                 </u>   
-               <u who="#MARCHERIA" xml:id="m32" synch="#tlp69">Sì,<pause type="short"/>erano donne tedesche, cosa fossero, 
+               <u who="#MARCHERIA" xml:id="m32" synch="#tlp69">Sì, <pause type="short"/>erano donne tedesche, cosa fossero, 
                     <orig>c'avevano</orig>
                     <reg>avevano</reg>
                     il triangolino nero, cosa fossero,
@@ -1637,7 +1641,7 @@
                     Sempre insieme, non subito, a me e dopo anche mia sorella, <pause type="short"/>
                     comunque lì al <foreign xml:lang="DE">Block</foreign> sette,<pause type="short"/> 
                     è lì che ho capito come andavano a finire tutte le cose, come funzionava il 
-                    <orgName ref="#LA">Lager,</orgName>, in 
+                    <orgName ref="#LA">Lager</orgName>, in 
                     <orgName ref="#KA">Kanàda</orgName>. 
                     Arrivavano i treni, spogliavano le persone, e c'erano le montagne di 
                     <listObject><object><objectIdentifier><objectName> vestiti, di scarpe, di coperte, di occhiali,</objectName></objectIdentifier></object></listObject> 
@@ -1649,15 +1653,9 @@
                     E tutte le persone, <del type="reformulation">tutti quei,</del> 
                     quelle erano persone che <del type="correction">s</del>defunte.
                 </u>
-                <u who="#GP" xml:id="g22" synch="#tlp80"><vocal><desc>Eh</desc></vocal>certo!</u>
-                <u who="#MARCHERIA" xml:id="m38" synch="#tlp81">
-                    <anchor synch="#tls31"/><del type="reformulation">Noi le vedevamo</del>
-                    <anchor synch="#tls32"/>
-                </u>
-                <u who="#GP" xml:id="g23" synch="#tlp82">
-                    <anchor synch="#tls31"/><gap reason="inaudible" extent="2" unit="word"/> 
-                    <anchor synch="#tls32"/> 
-                </u>
+                <u who="#GP" xml:id="g22" synch="#tlp80"><vocal><desc>Eh</desc></vocal>Certo!</u>
+                <u who="#MARCHERIA" xml:id="m38" synch="#tlp81"><anchor synch="#tls31"/><del type="reformulation">Noi le vedevamo</del><anchor synch="#tls32"/></u>
+                <u who="#GP" xml:id="g23" synch="#tlp82"><anchor synch="#tls31"/><gap reason="inaudible" extent="2" unit="word"/><anchor synch="#tls32"/></u>
                 <u who="#MARCHERIA" xml:id="m39" synch="#tlp83">E che noi le vedevamo anche andare verso il crematorio, non so se avete sentito 
                     <persName ref="#SV">Shlomo Venezia</persName>.
                 </u>
@@ -1677,7 +1675,7 @@
                     <reg>avevo</reg>
                     il crematorio quattro davanti, lui mi pare era al due, sì non mi ricordo.
                 </u>
-                <u who="#AS" xml:id="a24" synch="#tlp89">Il quattro era uno di quelli grandi
+                <u who="#AS" xml:id="a24" synch="#tlp89">Il quattro era uno di quelli grandi,
                     <anchor synch="#tls35"/>quelli dove c'entravano
                     <anchor synch="#tls36"/> 
                     
@@ -1685,10 +1683,10 @@
                     <anchor synch="#tls38"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m42" synch="#tlp90">
-                    <anchor synch="#tls35"/>I grandi
+                    <anchor synch="#tls35"/>I grandi,
                     <anchor synch="#tls36"/>
 
-                    <anchor synch="#tls37"/>I grandi
+                    <anchor synch="#tls37"/>i grandi.
                     <anchor synch="#tls38"/>
                     Sì, è quello che poi l'hanno fatto saltare, quello che sì, c'è stata la ribellione
                 </u>
@@ -1703,9 +1701,9 @@
                 <u who="#MARCHERIA" xml:id="m43" synch="#tlp93"><shift feature="loud" new="f"/>E perché c'è stata la ribellione? 
                     <shift feature="loud" new="normal"/>Perché le ragazze del <orgName ref="#KA">Kanàda</orgName>,
                     <pause type="medium" dur="PT7s"/> 
-                    <emph>Eroiche ragazze, eroiche!</emph> Tedesche, polacche, slovacche, perché cioè, di italiane eravamo solo noi due
+                    <emph>eroiche ragazze, eroiche!</emph> Tedesche, polacche, slovacche, perché cioè, di italiane eravamo solo noi due
                 </u>
-                <u who="#GP" xml:id="g26" synch="#tlp94"><vocal><desc>Ah</desc></vocal>, eravate le uniche italiane</u>
+                <u who="#GP" xml:id="g26" synch="#tlp94"><vocal><desc>Ah</desc></vocal> Eravate le uniche italiane</u>
                 <u who="#MARCHERIA" xml:id="m44" synch="#tlp95">Le uniche, non potevano 
                     <anchor synch="#tls41"/>entrare
                     <anchor synch="#tls42"/>
@@ -1721,7 +1719,7 @@
                     <anchor synch="#tls43"/><del type="reformulation"> e queste erano tutte</del>
                     <anchor synch="#tls44"/>
                     <del type="repetition">erano tutte</del> 
-                    e noi non dovevamo vedere e sapere niente, naturalmente le ragazzine sai come sono<pause type="short"/>  
+                    E noi non dovevamo vedere e sapere niente, naturalmente le ragazzine sai come sono,<pause type="short"/>  
                     e loro le portavano al campo, loro le passavano, e a me è dispiaciuto molto quando una certa persona ha scritto un libro e ha 
                     scritto che <del type="reformulation">c'era che</del> nel 
                     <orgName ref="#KA">Kanàda</orgName>, le ragazze del <orgName ref="#KA">Kanàda</orgName> 
@@ -1747,7 +1745,7 @@
                     <listPerson><person><age value="15" unit="year" notAfter="1943">quindici anni</age></person></listPerson> 
                     di là dentro io non sapevo neanche cosa fosse la prostituzione perché ai tempi miei, a casa mia, 
                     <del type="reformulation">c'era</del> 
-                    era tabù non si poteva parlare di niente,<pause type="short"/>assolutamente!
+                    era tabù non si poteva parlare di niente, <pause type="short"/>assolutamente!
                 </u>
                 <u who="#AS" xml:id="a27" synch="#tlp102">Ma che <persName ref="#NF">Nedo</persName> ha detto queste cose? Io infatti
                     <anchor synch="#tls47"/>non l'ho ancora letto, perché me l'ha detto
@@ -1764,7 +1762,7 @@
                 <u who="#AS" xml:id="a29" synch="#tlp106">Cioè!</u>
                 <u who="#GP" xml:id="g31" synch="#tlp107">Ci ha bloccato </u>
                 <u who="#MARCHERIA" xml:id="m48" synch="#tlp108">
-                    <anchor synch="#tls49"/>Io non è che mi sono offesa per me,<vocal><desc>eh!</desc></vocal>
+                    <anchor synch="#tls49"/>Io non è che mi sono offesa per me<vocal><desc>eh!</desc></vocal>
                     <anchor synch="#tls50"/>  
                 </u>
                 <u who="#AS" xml:id="a30" synch="#tlp109">
@@ -1772,15 +1770,15 @@
                     <anchor synch="#tls50"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m49" synch="#tlp110">Io non mi sono offesa, ma coso, <persName ref="SV">Shlomo</persName>, mi ha portato un pezzo di 
-                    <unclear reason="slurred" cert="low">carta</unclear>, <del type="truncation">io non</del>
+                    <unclear reason="slurred" cert="low">carta</unclear> <del type="truncation">io non</del>
                 </u>
                 <u who="#AS" xml:id="a31" synch="#tlp111"><persName ref="#SV">Shlomo</persName> poi, è furioso su questa cosa</u>
                 <u who="#MARCHERIA" xml:id="m50" synch="#tlp112">Sì, perché lui conosceva le ragazze e sapeva come funzionava. Io non mi sono offesa per me, 
                     perché io non mi giro né di qua né di là, non mi offendo più, non mi meraviglio più di niente a questo mondo, dopo 
                     <placeName ref="#AU">Auschwitz</placeName> non mi meraviglio più di nulla!<pause type="short"/>
-                    Assolutamente! Anche se vedo cascare un asino da sopra,<vocal><desc> ah beh</desc></vocal>, regolare! Ma che, 
+                    Assolutamente! Anche se vedo cascare un asino da sopra,<vocal><desc> ah beh</desc></vocal> regolare! Ma che, 
                     <emph>parlare in questa maniera di ragazze morte, che hanno rischiato,</emph> non la 
-                    <del type="truncation">mo</del> la <vocal><desc>mmm</desc></vocal>
+                    <del type="truncation">mo</del> <del type="repetition">la</del> <vocal><desc>mmm</desc></vocal>
                 </u>
                 <u who="#AS" xml:id="a32" synch="#tlp113">La morte, ma come sono morte!</u>
                 <u who="#GP" xml:id="g32" synch="#tlp114">La tortura più che altro</u>
@@ -1794,7 +1792,7 @@
                 <u who="#AS" xml:id="a35" synch="#tlp119">
                     <anchor synch="#tls51"/>No, <del type="reformulation">alcune sono state</del> è <emph>provato</emph>
                     <anchor synch="#tls52"/>
-                     che alcune sono state torturate a morte perché parlassero di questa cosa
+                     che alcune sono state torturate a morte perché parlassero di questa cosa.
                     <anchor synch="#tls53"/>
                     <orig>Ce stanno</orig>
                     <reg>Ci sono</reg>
@@ -1809,7 +1807,7 @@
                     io ho il terrore del <del type="repetition">del</del> male, il terrore! A me non
                     <orig>me</orig>
                     <reg>mi</reg>
-                    fate male perché non <vocal><desc>mmm</desc></vocal>, sono <emph>terrorizzata!</emph><vocal><desc>ata</desc></vocal>
+                    fate male perché <del type="reformulation">non</del> <vocal><desc>mmm</desc></vocal> sono <emph>terrorizzata!</emph><vocal><desc>ata</desc></vocal>
                 </u>
                 <u who="#AS" xml:id="a36" synch="#tlp121">Quindi hanno fatto bene a tenervi, diciamo, fuori 
                     <anchor synch="#tls55"/>dall'informazione
@@ -1820,7 +1818,7 @@
                     <anchor synch="#tls56"/>
                 </u>
                 <u who="#AS" xml:id="a37" synch="#tlp123">Vi hanno protetto anche lì!</u>
-                <u who="#MARCHERIA" xml:id="m55" synch="#tlp124">Anche lì siamo state protette, nessuno lo doveva sapere, però tutta <del type="reformulation">la</del>
+                <u who="#MARCHERIA" xml:id="m55" synch="#tlp124">Anche lì siamo state protette, nessuno lo doveva sapere, però <del type="reformulation"> tutta la</del>
                     i soldi, oro, io i soldi li bruciavo, io <vocal><desc><emph>mah!</emph></desc></vocal>
                 </u>
                 <u who="#AS" xml:id="a38" synch="#tlp125">E l'oro che trovavate?</u>
@@ -1846,38 +1844,38 @@
                 </incident>
             </div>
             <div type="extraIntervista2">  
-                <u who="Maikele" xml:id="k1" synch="#tlp131"><gap reason="inaudible" extent="5" unit="word"/></u>  
+                <u who="#MAIKELE" xml:id="k1" synch="#tlp131"><gap reason="inaudible" extent="5" unit="word"/></u>  
                 <u who="#MARCHERIA" xml:id="m59" synch="#tlp132">Che cosa? Sì, grazie! Ma loro vanno via tutti?</u>
-                <u who="Maikele" xml:id="k2" synch="#tlp133">Sì! Perché?</u>
+                <u who="#MAIKELE" xml:id="k2" synch="#tlp133">Sì! Perché?</u>
                 <u who="#MARCHERIA" xml:id="m60" synch="#tlp134">Hanno finito?</u>
-                <u who="Maikele" xml:id="k3" synch="#tlp135">Perché?</u>
+                <u who="#MAIKELE" xml:id="k3" synch="#tlp135">Perché?</u>
                 <u who="#MARCHERIA" xml:id="m61" synch="#tlp136">Perché, <del type="repetition">perché</del></u>
-                <u who="Maikele" xml:id="k4" synch="#tlp137">Hanno finito</u>
+                <u who="#MAIKELE" xml:id="k4" synch="#tlp137">Hanno finito</u>
                 <u who="#MARCHERIA" xml:id="m62" synch="#tlp138">Hanno finito tutto?</u>
-                <u who="Maikele" xml:id="k5" synch="#tlp139">Sì, sì!</u>
+                <u who="#MAIKELE" xml:id="k5" synch="#tlp139">Sì, sì!</u>
                 <u who="#MARCHERIA" xml:id="m63" synch="#tlp140">Hanno chiuso giù il gas, tutto?</u>
-                <u who="Maikele" xml:id="k6" synch="#tlp141">Sì, sì!</u>   
+                <u who="#MAIKELE" xml:id="k6" synch="#tlp141">Sì, sì!</u>   
                 <u who="#MARCHERIA" xml:id="m64" synch="#tlp142"><vocal><desc>Eh?</desc></vocal>
                     <anchor synch="#tls286"/>Bravi!
                     <anchor synch="#tls287"/>  
                 </u>
-                <u who="Nì" xml:id="n1" synch="#tlp143">
+                <u who="#NI" xml:id="n1" synch="#tlp143">
                     <anchor synch="#tls286"/>È rimasto quello lì acceso però.
                     <anchor synch="#tls287"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m65" synch="#tlp144">Sì, ho acceso io perché avevo tanto freddo.</u>
-                <u who="Nì" xml:id="n2" synch="#tlp145">La riaccendo, no!</u>
+                <u who="#NI" xml:id="n2" synch="#tlp145">La riaccendo, no!</u>
                 <u who="#MARCHERIA" xml:id="m66" synch="#tlp146">No <del type="repetition">no no</del>. <del type="reformulation">Hai acceso</del> 
                     hai spento tutti e due? Perché io due ho acceso.
                 </u>
-                <u who="Maikele" xml:id="k7" synch="#tlp147">Arrivederci signora</u>
+                <u who="#MAIKELE" xml:id="k7" synch="#tlp147">Arrivederci signora</u>
                 <u who="#MARCHERIA" xml:id="m67" synch="#tlp148">Ciao Maikele! </u>
                 <incident>
                     <desc>chiusura di una porta</desc>
                 </incident>
-                <u who="Nì" xml:id="n3" synch="#tlp149">Arrivederci, arrivederci.</u> 
+                <u who="#NI" xml:id="n3" synch="#tlp149">Arrivederci, arrivederci.</u> 
                 <u who="#MARCHERIA" xml:id="m68" synch="#tlp150">Ciao Nì</u>
-                <u who="Nì" xml:id="n4" synch="#tlp151">Ci vediamo domani mattina.</u>
+                <u who="#NI" xml:id="n4" synch="#tlp151">Ci vediamo domani mattina.</u>
                 <u who="#MARCHERIA" xml:id="m69" synch="#tlp152">Se Dio vuole!</u>
                 <incident>
                     <desc>rumore di passi</desc>
@@ -1890,8 +1888,8 @@
                     <anchor synch="#tls62"/>
                 </u>
                 <u who="#AS" xml:id="a41" synch="#tlp154">
-                    <anchor synch="#tls61"/>Era
-                    <anchor synch="#tls62"/>vamo
+                    <anchor synch="#tls61"/>Eravamo
+                    <anchor synch="#tls62"/>
                     <anchor synch="#tls63"/>
                 </u>
                 <u who="#GP" xml:id="g33" synch="#tlp155">
@@ -1899,7 +1897,7 @@
                     <anchor synch="#tls63"/>
                 </u>
                 <u who="#AS" xml:id="a42" synch="#tlp156">A chi diamo le cose che troviamo</u>
-                <u who="#MARCHERIA" xml:id="m71" synch="#tlp157"><vocal><desc>Eh</desc></vocal>sì!</u>
+                <u who="#MARCHERIA" xml:id="m71" synch="#tlp157"><vocal><desc>Eh</desc></vocal>Sì!</u>
                 <u who="#AS" xml:id="a43" synch="#tlp158">Le diamo tutte</u>
                 <u who="#MARCHERIA" xml:id="m72" synch="#tlp159">Sì! Davamo tutto! La roba da mangiare andava mangiata!</u>
                 <u who="#AS" xml:id="a44" synch="#tlp160">Direttamente!</u>
@@ -1943,7 +1941,7 @@
                     <anchor synch="#tls67"/>
                 </u>
                 <u who="#GP" xml:id="g36" synch="#tlp170">
-                    <anchor synch="#tls66"/><vocal><desc>Ah</desc></vocal>,non potevate prendere gli indumenti
+                    <anchor synch="#tls66"/><vocal><desc>Ah</desc></vocal>Non potevate prendere gli indumenti
                     <anchor synch="#tls67"/>
                 </u>    
                 <u who="#MARCHERIA" xml:id="m78" synch="#tlp171">
@@ -1951,7 +1949,7 @@
                     <anchor synch="#tls69"/>
                 </u>
                 <u who="#GP" xml:id="g37" synch="#tlp172"> 
-                    <anchor synch="#tls68"/>solo il cibo
+                    <anchor synch="#tls68"/>Solo il cibo
                     <anchor synch="#tls69"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m79" synch="#tlp173">Solo il cibo perché non lo vedevano</u>
@@ -1966,10 +1964,10 @@
                 </u>
                 <u who="#MARCHERIA" xml:id="m81" synch="#tlp177"><emph>Ma cose dell'altro mondo!</emph> 
                     Profumi e belletti! Profumi? Che se passava un <del type="repetition">un un</del> 
-                    ufficiale che sentiva che abbiamo usato il profumo, che era tutto del <orgName ref="#TR">Reich</orgName>, 
+                    ufficiale che sentiva che abbiamo usato il profumo, che era tutto del <orgName ref="#TR">Reich</orgName> 
                     <del type="truncation">o ci mettevamo</del>
                 </u>
-                <u who="#AS" xml:id="a48" synch="#tlp178"><emph>Proprietà del<orgName ref="#TR">Reich</orgName></emph></u>
+                <u who="#AS" xml:id="a48" synch="#tlp178"><emph>Proprietà del <orgName ref="#TR">Reich</orgName></emph></u>
                 <u who="#MARCHERIA" xml:id="m82" synch="#tlp179">
                     <emph>E questo diceva che ci pitturavamo! A parte che noi non ci siamo mai pitturate, né prima, né dopo!</emph> 
                     Rossetto rouge? <emph>Ma come è possibile? È pazzo! Questo ha l'arteriosclerosi, non è possibile!</emph> 
@@ -1991,8 +1989,8 @@
                 <incident>
                     <desc>rumore di tosse</desc>
                 </incident>
-                <u who="#AS" xml:id="a49" synch="#tlp181">Ma soprattutto la discordanza tra le testimonianza è un <del type="reformulation">pro</del>, 
-                    cioè, per i visionisti è un appiglio.
+                <u who="#AS" xml:id="a49" synch="#tlp181">Ma soprattutto la discordanza tra le testimonianze <del type="reformulation">è un pro cioè,</del> 
+                    per i visionisti è un appiglio.
                 </u><pause type="short"/>
                 <u who="#MARCHERIA" xml:id="m83" synch="#tlp182">È un appiglio, <pause type="short"/>
                     <incident>
@@ -2036,7 +2034,7 @@
                     <anchor synch="#tls77"/>
                     Cosa ha visto? <del type="reformulation">Come poteva dire una su</del> <del type="repetition">su</del> 
                     Si è immaginato! Che c'hanno visto <del type="truncation">lav</del>lavate! 
-                    Perché noi ci lavavamo. <emph>Certo!</emph>Era sporco il golf, buttavamo il golf sporco e mettevamo uno pulito.
+                    Perché noi ci lavavamo. <emph>Certo!</emph> Era sporco il golf, buttavamo il golf sporco e mettevamo uno pulito.
                 </u>
                 <u who="#GP" xml:id="g42" synch="#tlp188">E su questo infatti dice <persName ref="#FS">Frediano Sessi</persName> nel libro 
                     <bibl>
@@ -2057,14 +2055,14 @@
                     <anchor synch="#tls78"/><emph>Le scarpe!</emph>
                     <anchor synch="#tls79"/>
                 </u>
-                <u who="#GP" xml:id="g44" synch="#tlp192">quando avevano il maglione sporco 
+                <u who="#GP" xml:id="g44" synch="#tlp192">Quando avevano il maglione sporco 
                     <anchor synch="#tls80"/>lo buttavano nel gruppo e si mettevano un altro maglione
                     <anchor synch="#tls81"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m88" synch="#tlp193">
                     <anchor synch="#tls80"/>Certo! Sì questo è vero!
                     <anchor synch="#tls81"/>
-                    È vero. E io lasciavo anche al campo qualche golf per qualche ragazza italiana che e 
+                    È vero. E io lasciavo anche al campo qualche golf per qualche ragazza italiana <del type="reformulation">che</del> e 
                     <del type="repetition">e</del> glielo davo e <del type="repetition">e</del> 
                     io alla mattina tornavo, ne mettevo subito un altro, <del type="reformulation">si faceva</del> 
                     si poteva fare questo, ma non che mi mettevo calze di seta e ogni giorno un vestito perché noi avevamo la 
@@ -2075,7 +2073,7 @@
                     <kinesic>
                         <desc>si intuisce che Ida stia mostrando la posizione dell'ufficiale</desc>
                     </kinesic>   
-                    e noi dovevamo passare con la casacca, <gap reason="inaudible" extent ="3" unit="word"/> 
+                    e noi dovevamo passare con la casacca <gap reason="inaudible" extent ="3" unit="word"/> 
                     <anchor synch="#tls82"/><del type="truncation">sì perché dovevamo esse</del>
                     <anchor synch="#tls83"/> 
                 </u>
@@ -2083,8 +2081,8 @@
                     <anchor synch="#tls82"/>Non porti via niente!
                     <anchor synch="#tls83"/>
                 </u>
-                <u who="#MARCHERIA" xml:id="m89" synch="#tlp195">Esatto,<pause type="short"/>esatto</u>
-                <u who="#GP" xml:id="g45" synch="#tlp196"><vocal><desc>Ah</desc></vocal>era una perquisizione, 
+                <u who="#MARCHERIA" xml:id="m89" synch="#tlp195">Esatto,<pause type="short"/> esatto</u>
+                <u who="#GP" xml:id="g45" synch="#tlp196"><vocal><desc>Ah</desc></vocal>Era una perquisizione, 
                     <anchor synch="#tls84"/>praticamente.
                     <anchor synch="#tls85"/>
                 </u>
@@ -2117,7 +2115,7 @@
                 </incident>
             </div> 
             <div type="extraIntervista3">   
-                <u who="VOCE_DONNA" xml:id="d1" synch="#tlp204">Buonasera!</u>
+                <u who="#VOCE_DONNA" xml:id="d1" synch="#tlp204">Buonasera!</u>
                 <u who="#MARCHERIA" xml:id="m94" synch="#tlp205">Buonasera! Buonasera!</u>
             </div>
             <div type="intervista3">    
@@ -2140,8 +2138,8 @@
                     </emph> e lavavano <del type="reformulation">la</del><pause type="short"/>
                     il recipiente, mettevano sotto 
                     <listObject><object><objectIdentifier><objectName>oro, soldi, coperte, vestiti,</objectName></objectIdentifier></object></listObject> 
-                    lo riempivano con questa roba, l'oro alle <foreign xml:lang="DE">Kapò</foreign>, tiravano, nessuno lo toccava 
-                    <vocal><desc>eh</desc></vocal>,loro, devo dire, in prima fila cantando tutte e trecento ragazze tornavano al campo
+                    lo riempivano con questa roba, l'oro alle <foreign xml:lang="DE">Kapò</foreign>, tiravano, nessuno lo toccava, 
+                    <vocal><desc>eh</desc></vocal>loro, devo dire, in prima fila cantando tutte e trecento ragazze tornavano al campo
                     <pause type="short"/>coi bidoni
                 </u>
                 <u who="#AS" xml:id="a53" synch="#tlp211">Sempre cantando?</u>
@@ -2150,7 +2148,7 @@
                     dunque anche le donne della cucina erano
                 </u>
                 <u who="#GP" xml:id="g50" synch="#tlp213">Complici!</u>
-                <u who="#MARCHERIA" xml:id="m99" synch="#tlp214">Complici. Questi uomini che <persName ref="#NF">Nedo</persName><emph>dice</emph>,<pause type="short"/> 
+                <u who="#MARCHERIA" xml:id="m99" synch="#tlp214">Complici. Questi uomini che <persName ref="#NF">Nedo</persName><emph> dice</emph>,<pause type="short"/> 
                     che <persName ref="#NF">Nedo</persName> 
                     si chiama questo <persName><addName>farabutto</addName></persName>, dico 
                     <persName><addName>farabutto</addName></persName>
@@ -2172,7 +2170,7 @@
                     <reg>Ha</reg> 
                     ragione, ma anche se fosse stato?    
                 </u>
-                <u who="#MARCHERIA" xml:id="m101" synch="#tlp218"><shift feature="loud" new="f"/>Anche fosse stato, 
+                <u who="#MARCHERIA" xml:id="m101" synch="#tlp218"><shift feature="loud" new="f"/>Anche fosse stato 
                     <anchor synch="#tls94"/><del type="reformulation">come come?</del>
                     <anchor synch="#tls95"/> 
                 </u>
@@ -2204,31 +2202,26 @@
                 <u who="#GP" xml:id="g52" synch="#tlp221">No, io sono d'accordo con lei, anche se fosse stato</u>
                 <u who="#MARCHERIA" xml:id="m103" synch="#tlp222">Ma mi puoi dare del tu, sai?</u>
                 <u who="#GP" xml:id="g53" synch="#tlp223">
-                    <anchor synch="#tls96"/><vocal><desc>Beh</desc></vocal><emph>magari!</emph>
+                    <anchor synch="#tls96"/><vocal><desc>Beh</desc></vocal><emph>Magari!</emph>
                     <anchor synch="#tls97"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m104" synch="#tlp224">
                     <anchor synch="#tls96"/>Non
                     <anchor synch="#tls97"/> 
                     
-                    <orig>te preoccupa'</orig>!
-                    <reg>ti preoccupare</reg>! 
+                    <orig>te preoccupà</orig>!
+                    <reg>ti preoccupare</reg> 
                 </u>
                 <u who="#GP" xml:id="g54" synch="#tlp225">Cioè se tre 
                     <anchor synch="#tls274"/>donne
                     <anchor synch="#tls275"/> 
                 </u>
-                <u who="#MARCHERIA" xml:id="m105" synch="#tlp226">
-                    <anchor synch="#tls274"/><vocal><desc>Eh</desc></vocal>
-                    <anchor synch="#tls275"/> 
-                </u>
+                <u who="#MARCHERIA" xml:id="m105" synch="#tlp226"><anchor synch="#tls274"/><vocal><desc>Eh</desc></vocal><anchor synch="#tls275"/></u>
                 <u who="#GP" xml:id="g55" synch="#tlp227">
                     <anchor synch="#tls276"/>Sono impazzite!
                     <anchor synch="#tls277"/>
                 </u>
-                <u who="#MARCHERIA" xml:id="m106" synch="#tlp228">
-                    <anchor synch="#tls276"/><vocal><desc>Eh</desc></vocal></u>
-                    <anchor synch="#tls277"/>
+                <u who="#MARCHERIA" xml:id="m106" synch="#tlp228"><anchor synch="#tls276"/><vocal><desc>Eh</desc></vocal><anchor synch="#tls277"/></u>
                 <u who="#GP" xml:id="g56" synch="#tlp229">Perché secondo me si impazziva con grande 
                     <anchor synch="#tls278"/>facilità
                     <anchor synch="#tls279"/> 
@@ -2258,7 +2251,7 @@
                     <anchor synch="#tls280"/>Hai fatto i miracoli anche stasera?
                     <anchor synch="#tls281"/>   
                 </u>
-                <u who="NANNY" xml:id="na1" synch="#tlp235"><vocal><desc>Eh</desc></vocal>?</u>
+                <u who="#NANNY" xml:id="na1" synch="#tlp235"><vocal><desc>Eh?</desc></vocal></u>
                 <u who="#MARCHERIA" xml:id="m110" synch="#tlp236">Hai fatto i miracoli? 
                     <orig>M'hai</orig>
                     <reg>Mi hai</reg> 
@@ -2267,18 +2260,18 @@
                     <reg>marroni</reg> 
                     al cioccolato?
                 </u>
-                <u who="NANNY" xml:id="na2" synch="#tlp237">Sì!</u>
+                <u who="#NANNY" xml:id="na2" synch="#tlp237">Sì!</u>
                 <u who="#MARCHERIA" xml:id="m111" synch="#tlp238">Gli dici che 
                     <orig>ce</orig>
                     <reg>ci</reg> 
                     porti qualcosa da<vocal><desc>eh</desc></vocal>?
                 </u>
-                <u who="NANNY" xml:id="na3" synch="#tlp239">Sì.</u>
+                <u who="#NANNY" xml:id="na3" synch="#tlp239">Sì.</u>
             </div>
             <div type="intervista4">    
                 <u who="#MARCHERIA" xml:id="m112" synch="#tlp240"><del type="reformulation">Il</del>Se anche fosse stato dico,
                     <gap reason="inaudible" extent="2" unit="word"/> 
-                    parlavo per me per un bel po',<vocal><desc>eh</desc></vocal>?
+                    parlavo per me per un bel po'<vocal><desc>eh</desc></vocal>?
                 </u>
                 <u who="#AS" xml:id="a57" synch="#tlp241">Dopo quanto tempo lei ha cominciato dire qualcosa su questa<vocal><desc>mmm</desc></vocal></u>
                 <u who="#MARCHERIA" xml:id="m113" synch="#tlp242">Quando sono entrata al <orgName ref="#KA">Kanàda</orgName>. Ho aperto gli occhi. È lì 
@@ -2286,27 +2279,31 @@
                     che io <del type="repetition">io</del>sempre dico che <vocal><desc>mmm</desc></vocal>
                     sono nata là. Io sono nata
                 </u>
-                <u who="#AS" xml:id="a58" synch="#tlp243">Al<orgName ref="#KA">Kanàda</orgName>!</u>
-                <u who="#MARCHERIA" xml:id="m114" synch="#tlp244">Sì,<del type="reformulation">io lì</del>io sono nata a <placeName ref="#BI">Birkenau</placeName>, 
+                <u who="#AS" xml:id="a58" synch="#tlp243">Al <orgName ref="#KA">Kanàda</orgName>!</u>
+                <u who="#MARCHERIA" xml:id="m114" synch="#tlp244">Sì,<del type="reformulation">io lì</del> io sono nata a <placeName ref="#BI">Birkenau</placeName>, 
                     glie l'ho detto pure a
-                    <del type="repetition">a</del><pause type="short"/><persName ref="#AP">Pavia</persName>
+                    <del type="repetition">a</del><pause type="short"/><persName ref="#AP">Pavia</persName>,
                     vi voglio dare il libro.
                 </u><pause type="medium" dur="PT6s"/>
+               
                 <incident>
                     <desc>
-                        interruzione di registrazione
+                            interruzione di registrazione
                     </desc>
                 </incident>
             </div>
+         
+            <ab type="ricambio cassetta" />  
+
             <div type="intervista5">    
                 <u who="#GP" xml:id="g58" synch="#tlp245">Grazie, tanto io e lei dividiamo tutto!</u>
-                <u who="#MARCHERIA" xml:id="m115" synch="#tlp246"><vocal><desc>Ah</desc></vocal> sì! No, mai io</u>
+                <u who="#MARCHERIA" xml:id="m115" synch="#tlp246"><vocal><desc>Ah</desc></vocal> Sì? No, mai io</u>
                 <u who="#GP" xml:id="g59" synch="#tlp247">Se ce lo procura 
                     <orig>ce</orig>
                     <reg>ci</reg> 
                     fa piacere
                 </u>
-                <u who="#MARCHERIA" xml:id="m116" synch="#tlp248">Sì <del type="repetition">sì sì</del>! Perché l'ha <del type="repetition">l'ha</del> dedicato a 
+                <u who="#MARCHERIA" xml:id="m116" synch="#tlp248">Sì <del type="repetition">sì sì!</del> perché l'ha <del type="repetition">l'ha</del> dedicato a 
                     <persName ref="#MARCHERIA">Ida</persName> e <persName ref="#Stella">Stellina</persName>, vero!
                 </u>
                 <u who="#AS" xml:id="a59" synch="#tlp249"><persName ref="#MARCHERIA">Ida</persName> e <persName ref="#Stella">Stellina</persName> ma 
@@ -2321,29 +2318,29 @@
                 </u>
                 <u who="#GP" xml:id="g60" synch="#tlp251">Il sorriso di chi ancora non immagina</u>
                 <u who="#MARCHERIA" xml:id="m118" synch="#tlp252">No! Lontanamente!</u>
-                <u who="#GP" xml:id="g61" synch="#tlp253">Sono rimasta ai, <del type="repetition">ai</del> pentoloni che venivano portati in cucina </u>
+                <u who="#GP" xml:id="g61" synch="#tlp253">Sono rimasta ai <del type="repetition">ai</del> pentoloni che venivano portati in cucina </u>
                 <u who="#MARCHERIA" xml:id="m119" synch="#tlp254">In cucina</u>   
                 <u who="#GP" xml:id="g62" synch="#tlp255">    
-                    <anchor synch="#tls98"/>e poi? E poi, basta, perché poi arrivavano 
+                    <anchor synch="#tls98"/>E poi? E poi, basta, perché poi arrivavano 
                     <anchor synch="#tls99"/> 
                     gli uomini, a quel punto, che prendevano 
-                    <orig>'ti</orig>
+                    <orig>'sti</orig>
                     <reg>questi</reg> 
                     pentoloni.
                 </u>
                 <u who="#MARCHERIA" xml:id="m120" synch="#tlp256">
-                    <anchor synch="#tls98"/>e io, e poi noi dovevamo andare sull'appello.
+                    <anchor synch="#tls98"/>E io, e poi noi dovevamo andare sull'appello.
                     <anchor synch="#tls99"/> 
                     Io non ho visto!
                 </u>
                 <u who="#AS" xml:id="a60" synch="#tlp257">Chissà se           
-                    <orig>'ta roba</orig>
+                    <orig>'sta roba</orig>
                     <reg>queste cose</reg> 
                     andava alla resistenza <del type="truncation">a</del>
                 </u>
                 <u who="#MARCHERIA" xml:id="m121" synch="#tlp258"><shift feature="loud" new="pp"/>Resistenza? Sì, sì alla resistenza! 
                     Questa roba andava alla resistenza, qualcosa alla 
-                    <foreign xml:lang="PL">Blockova</foreign>, perché la<foreign xml:lang="PL">Blockova</foreign>  
+                    <foreign xml:lang="PL">Blockova</foreign>, perché la <foreign xml:lang="PL">Blockova</foreign>  
                     <orig>c'aveva</orig>
                     <reg>aveva</reg> 
                     la cameretta col bel piumone, e gli stivaletti tutti carini, 
@@ -2355,7 +2352,7 @@
                     <desc>Una donna porta dei cioccolatini</desc>
                 </kinesic>       
                 <u who="#MARCHERIA" xml:id="m122" synch="#tlp259">Oh grazie che carina!</u>
-                <u who="VOCE_DONNA" xml:id="vd1" synch="#tlp260">Attenzione questi due sono al peperoncino! 
+                <u who="#VOCE_DONNA" xml:id="vd1" synch="#tlp260">Attenzione questi due sono al peperoncino! 
                     <anchor synch="#tls100"/>Li ho messi
                     <anchor synch="#tls101"/> 
                     per gustare l'assaggino!
@@ -2410,14 +2407,14 @@
                </u>
                 <u who="#MARCHERIA" xml:id="m128" synch="#tlp272">Pulita, che tutto a posto, 
                     <del type="reformulation">che</del> così! Non si vedeva quasi mai, stava lì. Comunque, c'era lei e poi c'era la 
-                    <vocal><desc>mmm</desc></vocal>, la polacca, un pezzo 
+                    <vocal><desc>mmm</desc></vocal> <del type="repetition">la</del> polacca, un pezzo 
                     <orig>de</orig>
                     <reg>di</reg> 
                      donna che sembrava un armadio che ti svegliava 
-                    <foreign xml:lang="De">Aufstehen</foreign> alla mattina alle quattro, tutti al<foreign xml:lang="De">Waschen</foreign>!, 
+                    <foreign xml:lang="De">Aufstehen</foreign> alla mattina alle quattro, tutti al <foreign xml:lang="De">Waschen</foreign>!, 
                     che la sera doveva chiudere la luce, la porta, non 
-                    <orig>se poteva uscì</orig>
-                    <reg>si poteva uscire</reg>, 
+                    <orig>se poteva uscì</orig>,
+                    <reg>si poteva uscire</reg> 
                     tutta, e quella faceva la parte della diciamo <pause type="short"/>
                     la capo, non era un capo, la domestica dicevo io, quella che <del type="reformulation">fac che</del> 
                     stava attenta che fosse pulito, che fosse, qualsiasi cosa proprio.
@@ -2451,8 +2448,8 @@
                     riccetti, <del type="reformulation">io</del> 
                     <emph>era fatta che mi piaceva tanto!</emph> Erano gli unici film che avevo visto erano quelli della 
                     <persName ref="ST">Shirley Temple</persName>, allora! <pause type="short"/><vocal><desc>mmm</desc></vocal>
-                    <q type="spoken" who="#MARCHERIA" toWhom="#Stella"><emph><persName ref="#Stella">Stellina</persName>, 
-                    che bella che è, guarda che ricciolini!</emph></q> 
+                    <q type="spoken" who="#MARCHERIA" toWhom="#Stella"><emph><persName ref="#Stella">"Stellina</persName>, 
+                    che bella che è, guarda che ricciolini!"</emph></q> 
                     Eravamo tutte pelate! <unclear reason="very fast" cert="low">Ma diceva</unclear> 
                     gli serve <shift feature="voice" new="giggle"/>come il pane, mi ha detto mia "le altalene dei pidocchi" ma 
                     le ragazze del <orgName ref="#KA">Kanàda</orgName> non avevano i pidocchi.<pause type="short"/> Si lavavano.
@@ -2466,7 +2463,7 @@
                     <anchor synch="#tls111"/> 
                 </u>
                 <u who="#GP" xml:id="g71" synch="#tlp285">
-                    <anchor synch="#tls112"/><vocal><desc>Ah</desc></vocal>, corti?
+                    <anchor synch="#tls112"/><vocal><desc>Ah</desc></vocal>Corti?
                     <anchor synch="#tls113"/>  
                 </u>
                 <u who="#MARCHERIA" xml:id="m135" synch="#tlp286">
@@ -2474,7 +2471,7 @@
                     <anchor synch="#tls113"/>
                 </u>
                 <u who="#AS" xml:id="a65" synch="#tlp287">Crescevano! Chiaramente. E allora, dunque rinascere al <orgName ref="#KA">Kanàda</orgName></u>
-                <u who="#MARCHERIA" xml:id="m136" synch="#tlp288"><vocal><desc>Mmm</desc></vocal>sì. 
+                <u who="#MARCHERIA" xml:id="m136" synch="#tlp288"><vocal><desc>Mmm</desc></vocal>Sì. 
                     Qui lo spiega bene perché glielo avevo ben detto, gliel'ho raccontato.
                 </u>
                 <u who="#AS" xml:id="a66" synch="#tlp289">Rinascere perché ha capito</u>
@@ -2487,7 +2484,7 @@
                     <reg>di questa</reg> 
                     <del type="repetition">de sta</del>
                 </u>
-                <u who="#MARCHERIA" xml:id="m138" synch="#tlp292"><vocal><desc>Eh</desc></vocal>, sì. Tutti questi morti perché allora, quando io ho perso la parola,
+                <u who="#MARCHERIA" xml:id="m138" synch="#tlp292"><vocal><desc>Eh</desc></vocal>Sì. Tutti questi morti perché allora, quando io ho perso la parola,
                     perché io andavo,<pause type="short"/> cercavo le italiane, perché io ho detto, come possono essere sparite 
                     <emph>tutto il camion, tutti e due i camion,</emph> 
                     <incident>
@@ -2499,9 +2496,9 @@
                 </incident>
             </div> 
             <div type="intervista7">   
-                <u who="#GP" xml:id="g72" synch="#tlp293">la parola, diciamo quando è arrivata?</u>
-                <u who="#MARCHERIA" xml:id="m139" synch="#tlp294"><vocal><desc>Mmm</desc></vocal>, sì! Perché io cercavo mia mamma,<pause type="short"/> 
-                    in un certo momento andavo e cercavo.<pause type="short"/>Una <del type="repetition">una</del> s'era stufata 
+                <u who="#GP" xml:id="g72" synch="#tlp293">La parola, diciamo quando è arrivata?</u>
+                <u who="#MARCHERIA" xml:id="m139" synch="#tlp294"><vocal><desc>Mmm</desc></vocal>Sì! Perché io cercavo mia mamma,<pause type="short"/> 
+                    in un certo momento andavo e cercavo. <pause type="short"/>Una <del type="repetition">una</del> s'era stufata 
                     <orig>de</orig>
                     <reg>di</reg> 
                      sentirmi, 
@@ -2511,8 +2508,8 @@
                     <orig>m'ha</orig>
                     <reg>mi ha</reg> 
                     detto:
-                    <q type="spoken" who="#donna" toWhom="#MARCHERIA">Vedi quel camino? Vedi quel fumo?<vocal><desc>Beh</desc></vocal>, 
-                    la mamma è lì adesso!"</q>
+                    <q type="spoken" who="#donna" toWhom="#MARCHERIA">"Vedi quel camino? Vedi quel fumo?<vocal><desc>Beh</desc></vocal> 
+                    La mamma è lì adesso!"</q>
                 </u>
                 <incident>
                     <desc>colpo di tosse</desc>
@@ -2602,7 +2599,7 @@
                     <anchor synch="#tls117"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m162" synch="#tlp322">Quella brodaglia, quella ciofeca, e l'ora del sole, sole? <emph>Non c'era mai il sole!</emph>
-                    era sempre questo tempo così,<pause type="short"/> cielo di <placeName ref="#BI">Birkenau</placeName> 
+                    Era sempre questo tempo così,<pause type="short"/> cielo di <placeName ref="#BI">Birkenau</placeName> 
                     dico io quando vedo,<pause type="short"/> 
                     <incident>
                         <desc>apertura di una porta</desc>
@@ -2621,8 +2618,8 @@
                     </incident> 
                     No,<pause type="short"/> i giornali non esistevano proprio<pause type="short"/>! Rari,<pause type="short"/> rari!
                 </u>
-                <u who="#AS" xml:id="a78" synch="#tlp325">Anche perché in quei viaggi, poi il giornale magari se c'era all'inizio veniva usato
-                    <vocal><desc>eh</desc></vocal>!
+                <u who="#AS" xml:id="a78" synch="#tlp325">Anche perché in quei viaggi, poi il giornale magari se c'era all'inizio veniva usato!
+                    <vocal><desc>eh</desc></vocal>
                 </u>
                 <u who="#GP" xml:id="g75" synch="#tlp326">Ma però 
                     <orig>c'hanno</orig>
@@ -2638,18 +2635,18 @@
                 </u>
                 <u who="#AS" xml:id="a79" synch="#tlp328">
                     <shift feature="voice" new="whisper"/>Certo</u>
-                <u who="#GP" xml:id="g76" synch="#tlp329"><shift feature="voice" new="whisper"/>certo</u>
+                <u who="#GP" xml:id="g76" synch="#tlp329"><shift feature="voice" new="whisper"/>Certo</u>
                 <u who="#MARCHERIA" xml:id="m165" synch="#tlp330">Nei ghetti</u>
                 <u who="#GP" xml:id="g77" synch="#tlp331">Però dice che voi sapevate sempre comunque più o meno che giorno fosse, 
                     perché comunque quelli che arrivavano dopo sapevano "siamo partiti una settimana 
-                    <anchor synch="#tls122"/>prima,
+                    <anchor synch="#tls122"/>prima"
                     <anchor synch="#tls123"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m166" synch="#tlp332">
                     <anchor synch="#tls122"/>Sì!
                     <anchor synch="#tls123"/>
                 </u>
-                <u who="#GP" xml:id="g78" synch="#tlp333">e abbiamo fatto tre giorni di viaggio 
+                <u who="#GP" xml:id="g78" synch="#tlp333">E abbiamo fatto tre giorni di viaggio 
                     <anchor synch="#tls124"/>per cui
                     <anchor synch="#tls125"/> 
                     in qualche modo sapevate.
@@ -2664,7 +2661,7 @@
                     <anchor synch="#tls127"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m169" synch="#tlp337">
-                    <anchor synch="#tls126"/><unclear reason="overlap" cert="low">Poi avevamo dei riferimenti</unclear>
+                    <anchor synch="#tls126"/><unclear reason="overlap" cert="low">Poi avevamo dei riferimenti.</unclear>
                     <anchor synch="#tls127"/>
                     No, eravamo tutti molto lucidi in questo, <del type="repetition">in questa cosa</del> 
                     le ragazze non ci dissero questo. Al campo forse un po' meno perché si erano lasciate per più andare,
@@ -2742,7 +2739,7 @@
                     <anchor synch="#tls137"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m178" synch="#tlp358">
-                    <anchor synch="#tls136"/>Sì, sì, poco
+                    <anchor synch="#tls136"/>Sì, sì, poco.
                     <anchor synch="#tls137"/>
                     Era un po' circolo chiuso. Io non ho visto<vocal><desc>mmm</desc></vocal>, salvo la 
                     <persName ref="#RIN">Rina</persName> che l'ho incontrata una mattina, poi non ho visto più quelle tre italiane che
@@ -2751,18 +2748,18 @@
                         <desc>colpo di tosse</desc>
                     </incident> 
                     ho solo sentito la parlata,<pause type="short"/> perché cercavo la mamma, e io ho detto: 
-                    <q type="spoken" who="#MARCHERIA" toWhom="#treItaliane">Italiane, italiane</q> 
-                    <q type="spoken" who="#treItaliane" toWhom="#MARCHERIA">Noi siamo italiane</q>  
-                    Oh Cristo, in un mese distrutte!<pause type="short"/>Distrutte, sembravano due vecchie, tutte così, 
+                    <q type="spoken" who="#MARCHERIA" toWhom="#treItaliane">"Italiane, italiane"</q> 
+                    <q type="spoken" who="#treItaliane" toWhom="#MARCHERIA">"Noi siamo italiane"</q>  
+                    Oh Cristo, in un mese distrutte!<pause type="short"/> Distrutte, sembravano due vecchie, tutte così, 
                     <kinesic>
                         <desc>mostra la posizione delle donne</desc>
                     </kinesic>   
                     perché non si poteva star sedute<pause type="short"/> in questo posto.
                 </u>
-                <u who="#AS" xml:id="a87" synch="#tlp359">Star così stai,<pause type="short"/>umiliato proprio!</u><pause type="medium" dur="PT5s"/>
+                <u who="#AS" xml:id="a87" synch="#tlp359">Star così stai,<pause type="short"/> umiliato proprio!</u><pause type="medium" dur="PT5s"/>
                 <u who="#MARCHERIA" xml:id="m179" synch="#tlp360">Poi altre italiane, io non ho <del type="repetition">non ho</del> incontrato.</u>
                 <u who="#GP" xml:id="g85" synch="#tlp361">Come <del type="repetition">come</del> comunicavate con le altre ragazze, visto che il tedesco, il polacco</u>
-                <u who="#MARCHERIA" xml:id="m180" synch="#tlp362"><vocal><desc>Oh</desc></vocal>ma 
+                <u who="#MARCHERIA" xml:id="m180" synch="#tlp362"><vocal><desc>Oh</desc></vocal>Ma 
                     <anchor synch="#tls138"/>bisognava<shift feature="voice" new="laugh"/>
                     <anchor synch="#tls139"/> 
                 </u>
@@ -2794,11 +2791,11 @@
                         <corr>le</corr>
                     </choice>
                     ha insegnato a distinguere tutte le lingue, 
-                    <q type="spoken" who="#Micha" toWhom="#Stella">Senti quella <del type="repetition">quella</del> 
+                    <q type="spoken" who="#Micha" toWhom="#Stella">"Senti quella <del type="repetition">quella</del> 
                     è olandese, sembra tedesco, ma non è tedesco, c'hanno la 
                     <shift feature="voice" new="husky"/>ch, 
-                    questa è solo olandese, e quello è l'ungherese</q> 
-                    e quello gli insegnava, questa polacca era bravissima, 
+                    questa è solo olandese, e quello è l'ungherese"</q> 
+                    E quello gli insegnava, questa polacca era bravissima, 
                     <orig>c'avrà</orig>
                     <reg>avrà</reg> 
                     avuto
@@ -2822,14 +2819,14 @@
                     <del type="reformulation">quindi era importanti</del>
                     cioè da come lei racconta sa, la vedo
                 </u>
-                <u who="#MARCHERIA" xml:id="m184" synch="#tlp370">Sì, era un circolo chiuso,<vocal><desc>eh</desc></vocal>, più di tanto non</u>
-                <u who="#AS" xml:id="a91" synch="#tlp371"><vocal><desc>Va beh</desc></vocal>, ma anche una collaborazione tra tre
+                <u who="#MARCHERIA" xml:id="m184" synch="#tlp370">Sì, era un circolo chiuso,<vocal><desc>eh</desc></vocal> più di tanto non</u>
+                <u who="#AS" xml:id="a91" synch="#tlp371"><vocal><desc>Va beh</desc></vocal>E anche una collaborazione tra tre
                     <vocal><desc>eh, eh, eh</desc></vocal>
                 </u>
                 <u who="#MARCHERIA" xml:id="m185" synch="#tlp372">Sì, sì</u>
                 <u who="#AS" xml:id="a92" synch="#tlp373">È una grande risposta alla divide et impera che avevano loro <del type="truncation"> no, di</del></u>
                 <u who="#MARCHERIA" xml:id="m186" synch="#tlp374">Sì<pause type="short"/>, si è vero.</u>
-                <u who="#GP" xml:id="g87" synch="#tlp375">Lo possiamo dire che c'era un buon rapporto tra le donne, <del type="repetition">lo possiamo dire</del>? 
+                <u who="#GP" xml:id="g87" synch="#tlp375">Lo possiamo dire che c'era un buon rapporto tra le donne<del type="repetition">lo possiamo dire</del>? 
                     Tra gli 
                     <anchor synch="#tls142"/>uomini
                     <anchor synch="#tls143"/>   
@@ -2845,7 +2842,7 @@
                     <anchor synch="#tls142"/><vocal><desc>m m</desc></vocal>
                     <anchor synch="#tls143"/>
 
-                    <anchor synch="#tls144"/>ma anche fra le donne
+                    <anchor synch="#tls144"/>Ma anche fra le donne
                     <anchor synch="#tls145"/>
                     non c'erano tanti gesti, perché io <del type="reformulation">non</del>tutti
                     <orig>sti</orig>
@@ -2908,7 +2905,7 @@
                     <anchor synch="#tls154"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m193" synch="#tlp390">
-                    <anchor synch="#tls153"/>che lei apprendeva.
+                    <anchor synch="#tls153"/>Anche lei apprendeva.
                     <anchor synch="#tls154"/> 
                     Perché sennò come <supplied resp="ED">faceva?</supplied> <del type="reformulation">poco, poco e tutto</del> 
                     pane <foreign xml:lang="DE">Brot</foreign>pane <foreign xml:lang="DE">Wasser</foreign> acqua, acqua. Hai capito? 
@@ -2922,7 +2919,7 @@
                     <anchor synch="#tls156"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m194" synch="#tlp392">
-                    <anchor synch="#tls155"/><vocal><desc>Ah</desc></vocal>sì! <emph>Quando c'è l'urgenza!</emph>
+                    <anchor synch="#tls155"/><vocal><desc>Ah</desc></vocal>Sì! <emph>Quando c'è l'urgenza!</emph>
                     <anchor synch="#tls156"/>
                 </u>
                 <u who="#GP" xml:id="g94" synch="#tlp393">Certo!</u><pause type="short"/>
@@ -2934,11 +2931,11 @@
                 <u who="#AS" xml:id="a97" synch="#tlp397">Voi siete arrivate insieme?</u>
                 <u who="#MARCHERIA" xml:id="m197" synch="#tlp398">Dove?</u>
                 <u who="#AS" xml:id="a98" synch="#tlp399">In Italia.<pause type="short"/> Tornate?</u>
-                <u who="#MARCHERIA" xml:id="m198" synch="#tlp400">Sì, <pause type="short"/>sì,<pause type="short"/>siamo sempre state insieme.</u>
+                <u who="#MARCHERIA" xml:id="m198" synch="#tlp400">Sì, <pause type="short"/>sì, <pause type="short"/>siamo sempre state insieme.</u>
                 <u who="#GP" xml:id="g95" synch="#tlp401">È normale</u>
-                <u who="#AS" xml:id="a99" synch="#tlp402">Giacomo diceva 
-                    <q type="spoken" who="#Giacomo" toWhom="#AS">Un giorno felice, non ricordo quando sono tornate le mie sorelle, però</q>  
-                    siccome lui è stato un po' vago, siete tornate
+                <u who="#AS" xml:id="a99" synch="#tlp402">Giacomo diceva: 
+                    <q type="spoken" who="#Giacomo" toWhom="#AS">"Un giorno felice, non ricordo quando sono tornate le mie sorelle, però..."</q>  
+                    Siccome lui è stato un po' vago, siete tornate
                     <anchor synch="#tls157"/>insieme.
                     <anchor synch="#tls158"/>  
                 </u>
@@ -2974,17 +2971,17 @@
                     <anchor synch="#tls161"/><vocal><desc>mm</desc></vocal>
                     <anchor synch="#tls162"/>
                     
-                    <anchor synch="#tls163"/>A me mi ha detto
+                    <anchor synch="#tls163"/>A me mi ha detto:
                     <anchor synch="#tls164"/>
-                    <q type="spoken" who="#Giacomo" toWhom="#AS"> È venuta la <persName ref="#AS">Anna Segre</persName> per fare le</q>
+                    <q type="spoken" who="#Giacomo" toWhom="#AS">"È venuta la <persName ref="#AS">Anna Segre</persName> per fare le <supplied resp="ED">interviste",</supplied></q>
                     anche lei è andata?
                 </u>
                 <u who="#AS" xml:id="a101" synch="#tlp409">
-                    <anchor synch="#tls165"/>Sì, sì
+                    <anchor synch="#tls165"/>Sì, sì!
                     <anchor synch="#tls166"/> 
                 </u>
                 <u who="#GP" xml:id="g99" synch="#tlp410">
-                    <anchor synch="#tls165"/>Sì, sì
+                    <anchor synch="#tls165"/>Sì, sì!
                     <anchor synch="#tls166"/>
                     <pause type="medium" dur="PT7s"/>
                     Eravate le più giovani voi, <del type="repetition">voi due</del> al 
@@ -3008,7 +3005,7 @@
                     <anchor synch="#tls169"/><vocal><desc>Ah, ah</desc></vocal> 
                     <anchor synch="#tls170"/>
                 
-                    <anchor synch="#tls171"/><vocal><desc>Ah</desc></vocal>,<foreign xml:lang="EN">baby</foreign>!
+                    <anchor synch="#tls171"/><vocal><desc>Ah</desc></vocal><foreign xml:lang="EN">Baby</foreign>!
                     <anchor synch="#tls172"/> 
                 </u>    
                 <u who="#AS" xml:id="a102" synch="#tlp415">
@@ -3022,21 +3019,21 @@
                         <desc>colpo di tosse</desc>
                     </incident> abbiamo fatto l'evacuazione, no?
                 </u>
-                <u who="#GP" xml:id="g103" synch="#tlp418"><vocal><desc>Ah</desc></vocal>, 
-                    voi siete state lì, dunque, quanto tempo siete state in definitiva 
+                <u who="#GP" xml:id="g103" synch="#tlp418"><vocal><desc>Ah</desc></vocal> 
+                    Voi siete state lì, dunque, quanto tempo siete state in definitiva 
                     <anchor synch="#tls173"/>al <orgName ref="#KA">Kanàda</orgName>?
                     <anchor synch="#tls174"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m204" synch="#tlp419">
-                    <anchor synch="#tls173"/>Fino al<date when="1945-01-18">18 gennaio del 45.</date>
+                    <anchor synch="#tls173"/>Fino al <date when="1945-01-18">18 gennaio del 45.</date>
                     <anchor synch="#tls174"/>
                 </u>
                 <u who="#GP" xml:id="g104" synch="#tlp420">Il <date when="1945-01-17">17 gennaio</date> l'ultimo appello, 
-                    al <date when="1945-01-18">18 gennaio</date>siete partite.
+                    al <date when="1945-01-18">18 gennaio</date> siete partite.
                 </u>
                 <u who="#MARCHERIA" xml:id="m205" synch="#tlp421">No, il <date when="1945-01-18">18 gennaio</date> l'ultimo appello, noi la sera del 
                     <date when="1945-01-18">18</date>,<pause type="short"/> 
-                    il <date when="1945-01-18">18 gennaio</date>siamo partiti <pause type="short"/> 
+                    il <date when="1945-01-18">18 gennaio</date> siamo partiti <pause type="short"/> 
                     a piedi, quasi fino al confine della <placeName ref="#DEU"><country>Germania</country></placeName> sempre a piedi. 
                     <incident>
                         <desc>cane che abbaia</desc>
@@ -3059,7 +3056,7 @@
                     </incident>
                     A me fanno ridere questi fanno il footing, corrono<pause type="short"/> al prato<pause type="short"/> 
                     mezz'ora,<pause type="short"/> 
-                    una notte intera di corsa che arrivavano i russi,<pause type="short"/>cascavano 
+                    una notte intera di corsa che arrivavano i russi, <pause type="short"/>cascavano 
                     <anchor synch="#tls175"/>come mosche!
                     <anchor synch="#tls176"/> 
                 </u>
@@ -3067,7 +3064,7 @@
                     <anchor synch="#tls175"/>Come mosche!
                     <anchor synch="#tls176"/>
                 </u>
-                <u who="#MARCHERIA" xml:id="m209" synch="#tlp429">con le scarpe <supplied resp="ED">rotte</supplied></u>
+                <u who="#MARCHERIA" xml:id="m209" synch="#tlp429">Con le scarpe <supplied resp="ED">rotte</supplied></u>
                 <u who="#AS" xml:id="a106" synch="#tlp430"><emph>C'era un freddo</emph></u>
                 <u who="#MARCHERIA" xml:id="m210" synch="#tlp431"><date when="1945-01-18">18 gennaio del 45</date></u><pause type="short"/>
                 <u who="#AS" xml:id="a107" synch="#tlp432"><emph>Venti gradi sotto lo zero!</emph></u>
@@ -3092,15 +3089,15 @@
                 <u who="#GP" xml:id="g108" synch="#tlp439">Perché so che le donne le mandavano lì.<pause type="short"/></u>
                 <u who="#MARCHERIA" xml:id="m214" synch="#tlp440">Sì!</u>
                 <u who="#GP" xml:id="g109" synch="#tlp441">Quanti giorni è durata la marcia?</u>
-                <u who="#MARCHERIA" xml:id="m215" synch="#tlp442"><vocal><desc>Eh</desc></vocal>, tanto! Io credo che è durata quasi un mese!</u> 
+                <u who="#MARCHERIA" xml:id="m215" synch="#tlp442"><vocal><desc>Eh</desc></vocal>Tanto! Io credo che è durata quasi un mese!</u> 
                 <incident>
                     <desc>squilla un telefono</desc>
                 </incident>
             </div>
             <div type="extraIntervista7">    
                 <u who="#MARCHERIA" xml:id="m216" synch="#tlp443">Chi è? È il nostro?</u>
-                <u who="VOCE_DONNA" xml:id="v_d2" synch="#tlp444">Sono io, sono io.</u>
-                <u who="#MARCHERIA" xml:id="m217" synch="#tlp445"><vocal><desc>Ah</desc></vocal>, si?</u>
+                <u who="#VOCE_DONNA" xml:id="v_d2" synch="#tlp444">Sono io, sono io.</u>
+                <u who="#MARCHERIA" xml:id="m217" synch="#tlp445"><vocal><desc>Ah</desc></vocal>Si?</u>
             </div>
             <div type="intervista9">   
                 <u who="#GP" xml:id="g110" synch="#tlp446">Quasi un mese?</u>
@@ -3128,7 +3125,7 @@
                     <orig>ce</orig>
                     <reg>ci</reg> 
                     portavano via e siamo stati lì fino al <date when="1945-04-25">25 aprile</date>. Di questo sono sicura, era il 
-                    <date when="1945-04-25">25 aprile</date>.<date when="1945-04-25">25 aprile</date>
+                    <date when="1945-04-25">25 aprile</date>. <date when="1945-04-25">25 aprile</date>
                     <incident>
                         <desc>colpo di tosse e un cane ache abbaia</desc>
                     </incident>  
@@ -3143,9 +3140,9 @@
                         <desc>movimenti del registratore</desc>
                     </incident>
                     e mia sorella <shift feature="voice" new="giggle"/> ha detto: 
-                    <q type="spoken" who="#Stella" toWhom="#MARCHERIA">Andiamo anche noi</q> 
+                    <q type="spoken" who="#Stella" toWhom="#MARCHERIA">"Andiamo anche noi"</q> 
                     se non che l'ufficiale c'ha riconosciute 
-                    <q type="spoken" who="#Ufficiale" toWhom="#MARCHERIA">Italiane?</q> come per dire: Tu italiana che ci fai qua? 
+                    <q type="spoken" who="#Ufficiale" toWhom="#MARCHERIA">"Italiane?"</q> come per dire: "Tu italiana che ci fai qua?" 
                     Però non ha detto no, ma noi due siamo uscite perché hanno detto che <vocal><desc>mmm</desc></vocal>
                     il campo era minato, poi sì, non è vero, non l'hanno fatto saltare, non credo, non lo so. Abbiamo camminato fino al 
                     <del type="reformulation">primo apri</del><date when="1945-05-01">primo maggio</date>.
@@ -3171,25 +3168,25 @@
                     <anchor synch="#tls183"/>Il caos
                     <anchor synch="#tls184"/> 
                 </u>
-                <u who="#MARCHERIA" xml:id="m223" synch="#tlp457">In questo, sì, perché arrivavano i russi <pause type="short"/> e c'era il caos. Siamo 
-                    <del type="repetition">siamo</del> arrivati in uno spiazzo, c'erano sempre gli ufficiali, 
+                <u who="#MARCHERIA" xml:id="m223" synch="#tlp457">In questo <supplied resp="ED">caos</supplied>, sì, perché arrivavano i russi <pause type="short"/> e c'era il caos. Siamo 
+                    <del type="repetition">siamo</del> arrivati in uno spiazzo, c'erano sempre gli ufficiali. 
                     <del type="reformulation">ci hanno</del> 
-                    <del type="repetition">in uno spiazzo</del>. In questo spiazzo, era fai conto 
+                    <del type="repetition">in uno spiazzo</del> In questo spiazzo, era fai conto 
                     <anchor synch="#tls282"/>così,
                     <anchor synch="#tls283"/> 
                     <kinesic>
                         <desc>si intuisce che Ida stia mostrando la grandezza della piazza</desc>
                     </kinesic>
-                    e qui c'era un tronco d'albero abbattuto e io mi sono seduta su questo tronco e ho detto 
+                    e qui c'era un tronco d'albero abbattuto e io mi sono seduta su questo tronco e ho detto: 
                     <q type="spoken" who="#MARCHERIA" toWhom="#Stella"><emph>
-                    Qui può venire giù Padreterno, Cristo, ma io di qui non mi muovo più!</emph></q> 
+                    "Qui può venire giù Padreterno, Cristo, ma io di qui non mi muovo più!"</emph></q> 
                     Avevo tutti i piedi insanguinati, non c'avevo più scarpe, zoccoli,<pause type="short"/> 
                     non c'era più nulla, <emph>cinque giorni!</emph> 
                     C'era un gruppo di gente, mongoli, vestiti con
-                    <orig>sti</orig>
+                    <orig>'sti</orig>
                     <reg>questi</reg>
                     stivaletti, brutta gente, questi mongoli con 
-                    <orig>sti</orig>
+                    <orig>'sti</orig>
                     <reg>questi</reg>
                     occhi, io non l'ho mai visti i mongoli, con 'sti sguardi obliqui, brutti, brutti. 
                     Tutto d'un tratto in questo angolino qui
@@ -3199,50 +3196,44 @@
                     c'erano gli ufficiali che parlottavano con le ragazze russe brutte, ma noi oramai c'eravamo perse, 
                     non conoscevamo più nessuno perché nelle marce, chi cascava <del type="repetition">chi non</del>
                 </u>
-                <u who="#AS" xml:id="a111" synch="#tlp458">
-                    <anchor synch="#tls282"/><vocal><desc>mmm</desc></vocal>
-                    <anchor synch="#tls283"/>     
-                </u>    
+                <u who="#AS" xml:id="a111" synch="#tlp458"><anchor synch="#tls282"/><vocal><desc>mmm</desc></vocal><anchor synch="#tls283"/></u>    
                 <u who="#AS" xml:id="a112" synch="#tlp459">Ringrazi che eravate ancora voi due!</u>
                 <u who="#MARCHERIA" xml:id="m224" synch="#tlp460">Eh!<pause type="short"/> Quella è una lunga storia, quella di noi due. 
                     E vediamo <unclear reason="inaudible">entrare</unclear> due uomini, due che mi sembrano due pagliacci,
-                    <foreign xml:lang="EN"> "speak english, speak english"</foreign>. Mia sorella:
-                    <q type="spoken" who="#Stella" toWhom="#MARCHERIA"><emph>Questi qui ci parlano solo in inglese!</emph>
+                    <foreign xml:lang="EN"> "Speak english, speak english"</foreign>. Mia sorella:
+                    <q type="spoken" who="#Stella" toWhom="#MARCHERIA"><emph>"Questi qui ci parlano solo in inglese!</emph>
                     <shift feature="voice" new="giggle"/>Parlano solo in inglese, adesso che abbiamo imparato il tedesco,
-                    cominciamo con l'inglese!</q>
+                    cominciamo con l'inglese!"</q>
                     <anchor synch="#tls284"/><vocal><desc>ride</desc></vocal>
                     <anchor synch="#tls285"/>  
                     Mi dice:
                     <q type="spoken" who="#Stella" toWhom="#MARCHERIA">
-                    Sì, parlano inglese, sono vestiti tutti mimetizzati <del type="reformulation"></del>del, 
+                    "Sì, parlano inglese, sono vestiti tutti mimetizzati" <del type="reformulation">del,</del> 
                     <del type="repetition">del</del></q> 
                     Due erano, con le pistole così che stavano 
-                    <foreign xml:lang="EN"> "speak english, speak english"</foreign>. 
+                    <foreign xml:lang="EN"> "Speak english, speak english"</foreign>. 
                     Ho detto: 
-                    <q type="spoken" who="#MARCHERIA" toWhom="#Stella"><emph>Stiamo bene indietro, chinate</emph></q>
+                    <q type="spoken" who="#MARCHERIA" toWhom="#Stella"><emph>"Stiamo bene indietro, chinate!"</emph></q>
                     E invece vediamo gli ufficiali che alzano le mani che si arrendono subito <emph>senza un colpo ferire!</emph>
                     <pause type="short"/> E così il primo giorno, il
-                    <date when="1945-05-01">primo maggio</date> sarà stato
-                    <gap reason="inaudible" extent="3" unit="word"/>.  
+                    <date when="1945-05-01">primo maggio</date> sarà stato.
+                    <gap reason="inaudible" extent="3" unit="word"/>  
                     Capitano due da questo gruppetto: 
-                    <q type="spoken" who="#dueSconosciuti" toWhom="#MARCHERIA"> Dovete andare avanti, non potete stare qui</q>
-                    <q type="spoken" who="#MARCHERIA" toWhom="#dueSconosciuti"><emph><vocal><desc>Ah</desc></vocal>,
-                        io non mi muovo! Mi risparmi! Io non ho paura di morire qui!</emph></q> 
-                    <q type="spoken" who="#dueSconosciuti" toWhom="#MARCHERIA">No!</q>
-                    Mi dice,
+                    <q type="spoken" who="#dueSconosciuti" toWhom="#MARCHERIA"> <emph>"Dovete andare avanti, non potete stare qui!"</emph></q>
+                    <q type="spoken" who="#MARCHERIA" toWhom="#dueSconosciuti"><emph><vocal><desc>Ah</desc></vocal>
+                        "Io non mi muovo! Mi risparmi! Io non ho paura di morire qui!"</emph></q> 
+                    <q type="spoken" who="#dueSconosciuti" toWhom="#MARCHERIA">"No!"</q>
+                    Mi dice:
                     <q type="spoken" who="#dueSconosciuti" toWhom="#MARCHERIA">
-                        Voi siete in prima linea,<gap reason="inaudible" extent="5" unit="word"/>, 
-                        in prima linea, qui ci sono i russi, qui ci sono americani, qui ci sono inglesi, voi dovete andare avanti, 
-                        <emph>voi siete in prima linea! Qui c'è l'odio, la guerra!</emph></q>
-                    <q type="spoken" who="#MARCHERIA" toWhom="#dueSconosciuti"><emph>Noi siamo due anni che siamo in guerra!</emph></q>      
+                        "Voi siete in prima linea.<gap reason="inaudible" extent="5" unit="word"/> 
+                        In prima linea. Qui ci sono i russi, qui ci sono americani, qui ci sono inglesi, voi dovete andare avanti, 
+                        <emph>voi siete in prima linea! Qui c'è l'odio, la guerra!"</emph></q>
+                    <q type="spoken" who="#MARCHERIA" toWhom="#dueSconosciuti"><emph>"Noi siamo due anni che siamo in guerra!"</emph></q>      
                     Hanno piantato lì il carretto dei tedeschi, ci hanno fatto l'intervista, ci hanno fatto salire, 
                     visto che avevamo le righe e ci hanno fatto continuare<pause type="short"/> 
                     e così siamo <unclear reason="inaudible">ripartite</unclear><pause type="medium" dur="PT6s"/>  
                 </u> 
-                <u who="#GP" xml:id="g115" synch="#tlp461">
-                    <anchor synch="#tls284"/><vocal><desc>ride</desc></vocal>
-                    <anchor synch="#tls285"/>     
-                </u>  
+                <u who="#GP" xml:id="g115" synch="#tlp461"><anchor synch="#tls284"/><vocal><desc>ride</desc></vocal><anchor synch="#tls285"/></u>  
                 <incident>
                     <desc>rumore di un cucchiaino</desc>
                 </incident>   
@@ -3257,8 +3248,8 @@
                     </incident>   
                     <emph>Cinque mesi!</emph> <pause type="medium" dur="PT10s"/>
                     Sì, <pause type="short"/>questa è la storia.<pause type="medium" dur="PT6s"/> 
-                    Mi sono trovata in prima linea.<vocal><desc>mmm</desc></vocal><pause type="short"/> <vocal><desc>Beh</desc></vocal>, 
-                    <emph>non è da tutti!</emph> Potevo scegliere dove andare.<pause type="short"/> 
+                    Mi sono trovata in prima linea.<vocal><desc>mmm</desc></vocal><pause type="short"/> <vocal><desc>Beh</desc></vocal> 
+                    <emph>Non è da tutti!</emph> Potevo scegliere dove andare.<pause type="short"/> 
                     Comunque tutti scappavano perché arrivavano i russi, i tedeschi erano terrorizzati, 
                     <emph>ma<pause type="short"/> hanno fatto cose</emph>:<pause type="short"/> con le ragazze si nascondevano negli
                     <del type="repetition">nei, negli</del> armadi. Loro li buttavano giù dalla finestra anche dal quarto piano 
@@ -3290,16 +3281,16 @@
                     la fine, cioè, era già stata una devastazione la fine della devastazione e il ritorno,<pause type="short"/>
                     cioè,<pause type="short"/> per lui è stato terribile, anche per voi fu così?<pause type="short"/>
                 </u>
-                <u who="#MARCHERIA" xml:id="m229" synch="#tlp471">E certo!<pause type="medium" dur="PT5s"/>È logico!<pause type="short"/> 
-                    Senza famiglia, senza <unclear reason="inaudible">cose</unclear><del type="reformulation">senza</del>
-                    <pause type="short"/>Non è stato facile!<pause type="short"/>
+                <u who="#MARCHERIA" xml:id="m229" synch="#tlp471">E certo! <pause type="medium" dur="PT5s"/>È logico!<pause type="short"/> 
+                    Senza famiglia, senza <unclear reason="inaudible">cose</unclear>.<del type="reformulation">senza</del>
+                    <pause type="short"/> Non è stato facile!<pause type="short"/>
                 </u> 
                 <u who="#AS" xml:id="a116" synch="#tlp472">E perché <placeName ref="#ROMA">Roma</placeName>?</u>
                 <u who="#MARCHERIA" xml:id="m230" synch="#tlp473">Perché io ho sposato un romano<pause type="short"/> 
                     <incident>
                         <desc>rumore di passi</desc>
                     </incident> 
-                    e me ne sono andata<pause type="short"/>da <placeName ref="#TS">Trieste</placeName>.
+                    e me ne sono andata<pause type="short"/> da <placeName ref="#TS">Trieste</placeName>.
                 </u>
                 <u who="#GP" xml:id="g116" synch="#tlp474">Diciamo che <placeName ref="#TS">Trieste</placeName>
                     non vi dava più quella gioia dopo il ritorno, cioè vi rimaneva comunque difficile, 
@@ -3310,7 +3301,7 @@
                 <u who="#GP" xml:id="g117" synch="#tlp476">Perché <del type="correction">av</del>c'era un vuoto che avete trovato quando siete tornati.</u>
                 <u who="#MARCHERIA" xml:id="m232" synch="#tlp477">Certo!</u>
                 <u who="#GP" xml:id="g118" synch="#tlp478">Non è un caso che tutti e tre siate andati via.</u>
-                <u who="#MARCHERIA" xml:id="m233" synch="#tlp479">Beh, mia sorella doveva stare con me, comunque!</u>
+                <u who="#MARCHERIA" xml:id="m233" synch="#tlp479"><vocal><desc>Beh</desc></vocal>Mia sorella doveva stare con me, comunque!</u>
                 <u who="#GP" xml:id="g119" synch="#tlp480"><vocal><desc><emph>Ah!</emph></desc></vocal></u>
                 <u who="#MARCHERIA" xml:id="m234" synch="#tlp481">Dovevamo stare insieme, lo avevamo promesso alla mamma!</u><pause type="short"/> 
                 <u who="#GP" xml:id="g120" synch="#tlp482">E poi suo fratello quando è andato a vivere in <placeName><country>Israele</country></placeName>
@@ -3373,13 +3364,13 @@
                     <placeName ref="#BR">Brindisi</placeName> o a 
                     <placeName ref="#BA">Bari</placeName>, 
                     non ricordo più, <emph><placeName ref="#BR">Brindisi</placeName>!</emph> 
-                    Chi sulle scialuppe, chi sulle zattere <del type="reformulation">chi su</del> 
+                    Chi sulle scialuppe, chi sulle zattere, <del type="reformulation">chi su</del> 
                     mio nonno su una zattera e lì coi treni li hanno portati fino ad 
                     <placeName ref="#AU">Auschwitz</placeName> coi vagoni,
                     <incident>
                         <desc>rumore di passi</desc>
                     </incident> 
-                    <del type="reformulation">ma l'hanno portati</del><emph>ma non li potevate ammazzare lì?!</emph>
+                    <del type="reformulation">ma l'hanno portati</del><emph>ma non li potevate ammazzare lì?</emph>
                 </u>
                 <u who="#AS" xml:id="a118" synch="#tlp493"><emph>La perdizione questa cosa qui!</emph> 
                    <emph> Prendi uno a <placeName ref="#CO" type="island">Corfù</placeName> per ammazzarlo in 
@@ -3422,11 +3413,11 @@
                     facevano parlare c'erano i cortili, c'erano le bestioline lì che mangiavano, i maiali cose che c'avevano patate, 
                     bucce, le cose, le <del type="truncation">man</del> <supplied resp="ED">mangiavamo</supplied>
                     e c'erano loro, non potevamo entrare, dice: 
-                    <q type="spoken">Hanno chiuso tutto!</q> 
+                    <q type="spoken">"Hanno chiuso tutto!"</q> 
                     Non lo so perché, perché <shift feature="pitch" new="ascending"/>non volevano vedere!
                 </u>
                 <u who="#AS" xml:id="a120" synch="#tlp499">Poi anche perché chi tocca il bambino diventa compare, 
-                    <emph>chiudo le finestre, non ho visto niente!</emph><vocal><desc>Eh</desc></vocal>così.
+                    <emph>chiudo le finestre, non ho visto niente!</emph> <vocal><desc>Eh</desc></vocal>Così.
                 </u>
                 <u who="#MARCHERIA" xml:id="m243" synch="#tlp500">Sì,<pause type="short"/> sì! Perché se fossi stata io avrei 
                     <unclear reason="inaudible">buttato tutto</unclear> <gap reason="inaudible" extent="2" unit="word"/>
@@ -3435,7 +3426,7 @@
                 <u who="#GP" xml:id="g126" synch="#tlp501">Tedeschi, polacchi.</u>
                 <u who="#AS" xml:id="a121" synch="#tlp502">No, questa logica non c'è stata mai!</u>
                 <u who="#MARCHERIA" xml:id="m244" synch="#tlp503"><emph>No, <pause type="short"/>no!</emph> 
-                    E com'è che voi vi occupate di queste cose?<vocal><desc>Ah</desc></vocal>, sempre per questa mostra.
+                    E com'è che voi vi occupate di queste cose?<vocal><desc>Ah</desc></vocal> Sempre per questa mostra.
                 </u>
                 <u who="#AS" xml:id="a122" synch="#tlp504">No, questa mostra. <shift feature="voice" new="whisp"/>Ma insomma</u>
                 <u who="#GP" xml:id="g127" synch="#tlp505">Perché ci interessa 
@@ -3459,12 +3450,12 @@
                     mostra dove la fate?
                 </u>
                 <u who="#AS" xml:id="a124" synch="#tlp510">
-                    Alla<listOrg><org><orgName ref="#SCT">Scuola Tedesca</orgName></org></listOrg>, 
-                    alla<listOrg><org><orgName ref="#SE">Scuola Ebraica</orgName></org></listOrg>, 
-                    al<listOrg><org><orgName ref="#GI">Göthe-Institut</orgName></org></listOrg>, 
-                    a tutte queste <del type="reformulation">sc</del> istituzioni tedesche danno soldi per fare questa cosa
+                    Alla <listOrg><org><orgName ref="#SCT">Scuola Tedesca</orgName></org></listOrg>, 
+                    alla <listOrg><org><orgName ref="#SE">Scuola Ebraica</orgName></org></listOrg>, 
+                    al <listOrg><org><orgName ref="#GI">Göthe-Institut</orgName></org></listOrg>, 
+                    a tutte queste <del type="reformulation">sc</del> istituzioni tedesche danno soldi per fare questa cosa.
                 </u>
-                <u who="#MARCHERIA" xml:id="m247" synch="#tlp511"><vocal><desc>Ah</desc></vocal>, sì?</u>
+                <u who="#MARCHERIA" xml:id="m247" synch="#tlp511"><vocal><desc>Ah</desc></vocal>Sì?</u>
                 <u who="#AS" xml:id="a125" synch="#tlp512"><emph><vocal><desc>Eh</desc></vocal></emph></u>
                 <u who="#GP" xml:id="g129" synch="#tlp513">Dopo stiamo con la speranza che quando ci sarà il
                     <listOrg><org><orgName ref="#MS">Museo della Shoah</orgName></org></listOrg>, 
@@ -3507,13 +3498,13 @@
                     se possiamo allegare i documenti lì!
                 </u>
                 <u who="#MARCHERIA" xml:id="m253" synch="#tlp525">Beh, ma lui c'ha i documenti</u>
-                <u who="#AS" xml:id="a131" synch="#tlp526"><shift feature="voice" new="whisper"/>Sì,sì</u>
+                <u who="#AS" xml:id="a131" synch="#tlp526"><shift feature="voice" new="whisper"/>Sì, sì</u>
                 <u who="#MARCHERIA" xml:id="m254" synch="#tlp527">Ce 
                     <orig>n'ha</orig>
                     <reg>ne ha</reg>
                     quanti ne vuoi!
                 </u>
-                <u who="#AS" xml:id="a132" synch="#tlp528"><shift feature="voice" new="whisper"/>Sì,sì</u>   
+                <u who="#AS" xml:id="a132" synch="#tlp528"><shift feature="voice" new="whisper"/>Sì, sì</u>   
                 <u who="#MARCHERIA" xml:id="m255" synch="#tlp529"><del type="reformulation">Fa parte</del> 
                     <orig>C'ho</orig>
                     <reg>Ho</reg>
@@ -3528,7 +3519,7 @@
                     <anchor synch="#tls206"/>  
                     Ma<pause type="short"/> 
                     mi doveva dare un libro ma non me l'ha portato. Tutto sulle ragazze del <orgName ref="#KA">Kanàda</orgName>, 
-                    con fotografie mi ha detto.<pause type="short"/> <vocal><desc>Mah</desc></vocal>, me lo darà.
+                    con fotografie mi ha detto.<pause type="short"/> <vocal><desc>Mah</desc></vocal>Me lo darà.
                 </u>
                 <u who="#GP" xml:id="g131" synch="#tlp532">Ma ci sono le foto
                     <anchor synch="#tls207"/>o?
@@ -3547,13 +3538,10 @@
                     <orig>Tiene</orig>
                     <reg>Ha</reg> 
                     una foto delle ragazze del <orgName ref="KA">Kanàda</orgName> 
-                    che non c'entra per niente con le solite foto, ma so<orgName ref="#KA">Kanàda</orgName>, solo lì così.
+                    che non c'entra per niente con le solite foto, ma sò <orgName ref="#KA">Kanàda</orgName>, solo lì così.
                 </u>
                 <u who="#AS" xml:id="a134" synch="#tlp536">Sono ragazze</u>
-                <u who="#MARCHERIA" xml:id="m259" synch="#tlp537">
-                    <anchor synch="#tls209"/><vocal><desc>Mmm!</desc></vocal>
-                    <anchor synch="#tls210"/>
-                </u> 
+                <u who="#MARCHERIA" xml:id="m259" synch="#tlp537"><anchor synch="#tls209"/><vocal><desc>Mmm!</desc></vocal><anchor synch="#tls210"/></u> 
                 <u who="#AS" xml:id="a135" synch="#tlp538">
                     <anchor synch="#tls209"/>E basta.
                     <anchor synch="#tls210"/>
@@ -3570,16 +3558,13 @@
                     <reg>fare</reg> 
                     pure ad una donna!
                 </u>
-                <u who="#AS" xml:id="a136" synch="#tlp541"><vocal><desc>Eh</desc></vocal>, sì! Io, una cosa 
+                <u who="#AS" xml:id="a136" synch="#tlp541"><vocal><desc>Eh</desc></vocal>Sì! Io, una cosa 
                     <anchor synch="#tls211"/>per cui poi io
                     <anchor synch="#tls212"/> 
                 </u>
-                <u who="#MARCHERIA" xml:id="m261" synch="#tlp542">
-                    <anchor synch="#tls211"/><vocal> <desc>Mmm, mmm!</desc></vocal>
-                    <anchor synch="#tls212"/> 
-                </u> 
+                <u who="#MARCHERIA" xml:id="m261" synch="#tlp542"><anchor synch="#tls211"/><vocal> <desc>Mmm, mmm!</desc></vocal><anchor synch="#tls212"/></u> 
                 <u who="#AS" xml:id="a137" synch="#tlp543"><del type="reformulation">Sono</del>
-                    mi arrovello: ma secondo lei cosa gli diceva la testa a questi nazisti qua?!
+                    Mi arrovello: ma secondo lei cosa gli diceva la testa a questi nazisti qua?!
                 </u>
                 <u who="#MARCHERIA" xml:id="m262" synch="#tlp544">Cosa gli 
                     <anchor synch="#tls213"/>diceva?
@@ -3592,13 +3577,13 @@
                 </u>
                 <u who="#MARCHERIA" xml:id="m263" synch="#tlp546"><emph>Ma bisognava chiederglielo a loro, non a me!</emph></u>
                 <u who="#AS" xml:id="a139" synch="#tlp547"><del type="repetition">Eh!</del><vocal><desc>Eh</desc></vocal>
-                    lo so, però anche quello che pensano quelli che erano di fronte a loro può essere 
+                    Lo so, però anche quello che pensano quelli che erano di fronte a loro può essere 
                     <supplied resp="ED">importante</supplied>
                 </u>
                 <u who="#GP" xml:id="g134" synch="#tlp548">Cioè di tanta cattiveria</u>
-                <u who="#AS" xml:id="a140" synch="#tlp549"><vocal><desc>No</desc></vocal>, <del type="reformulation">di tanta, sì, di tanta</del> 
-                    perché non è solo cattiveria, è proprio il tripudio dell'iniquità,<vocal><desc>no</desc></vocal>? 
-                    Il tripudio dell'inspiegabile,<vocal><desc>mmm cioè</desc></vocal>
+                <u who="#AS" xml:id="a140" synch="#tlp549"><vocal><desc>No</desc></vocal><del type="reformulation">di tanta, sì, di tanta</del> 
+                    Perché non è solo cattiveria, è proprio il tripudio dell'iniquità,<vocal><desc>no</desc></vocal> 
+                    <emph>il tripudio dell'inspiegabile!</emph><vocal><desc>mmm cioè</desc></vocal>
                 </u>
                 <u who="#MARCHERIA" xml:id="m264" synch="#tlp550">Per me erano</u><pause type="short"/>
                 <u who="#GP" xml:id="g135" synch="#tlp551">Pazzi!</u>
@@ -3613,7 +3598,7 @@
                     <anchor synch="#tls216"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m266" synch="#tlp554"><emph>Gli adulti! Una cosa così! È gente adulta! Come è possibile!</emph> 
-                    <vocal><desc>Mah</desc></vocal>, devo essere io<pause type="short"/> diversa! 
+                    <vocal><desc>Mah</desc></vocal> Devo essere io<pause type="short"/> diversa! 
                     Non ci potevo credere! Un incubo!<pause type="short"/>
                     <gap reason="inaudible" extent="4" unit="word"/>
                     Perché solo una pazzia, una mente perversa, ma come è possibile!
@@ -3623,8 +3608,8 @@
                     arrivarono una quantità di convogli dall'<placeName ref="#H">Ungheria</placeName> 
                     <anchor synch="#tls217"/>anche 
                     <anchor synch="#tls218"/>  
-                    di bambini, direttamente nella camera a gas! Allora tu sei un nazista, stai lì, e a me questa domanda mi è sorta così, 
-                    <vocal><desc>ma va beh</desc></vocal>. Ma tu cosa pensi che vedi 
+                    di bambini, direttamente nella camera a gas! Allora tu sei un nazista, stai lì, e a me questa domanda mi è sorta così: 
+                    <vocal><desc>ma va beh</desc></vocal> ma tu cosa pensi che vedi 
                     <orig>'sti</orig>
                     <reg>questi</reg> 
                     ragazzini con le treccine, perché è la descrizione che ne fanno loro, che mi hanno fatto questi 
@@ -3632,7 +3617,7 @@
                     <anchor synch="#tls220"/> 
                 </u>
                 <u who="#MARCHERIA" xml:id="m267" synch="#tlp556">
-                    <anchor synch="#tls217"/><pause type="short"/> sì
+                    <anchor synch="#tls217"/><pause type="short"/> Sì!
                     <anchor synch="#tls218"/>
                     
                     <anchor synch="#tls219"/>Perché non hanno visto 
@@ -3641,12 +3626,12 @@
                     Perché <persName ref="#SV">Shlomo</persName> non ne parla! Ma io l'ho vista!<pause type="medium" dur="PT7s"/> 
                     E a lungo! No, sono pazzi! È impossibile! Le madri poi, 
                     <unclear reason="inaudible">si buttavano dove buttavano i figlioletti</unclear>. 
-                    <emph>C'era posto anche per loro! E non sprecavano!<pause type="short"/>Questo l'ho visto! Per questo lo dico!</emph> 
+                    <emph>C'era posto anche per loro! E non sprecavano!<pause type="short"/> Questo l'ho visto! Per questo lo dico!</emph> 
                     Non lo dico sempre, perché non risponde nessuno, perché si impressionano i ragazzini, ma io ero una ragazzina, 
                     <emph>posso essere impressionata!</emph> <gap reason="inaudible" extent="7" unit="word"/>
-                    Ma non è vero <gap reason="inaudible" extent="7" unit="word"/><pause type="medium" dur="PT10s"/>
+                    Ma non è vero. <gap reason="inaudible" extent="7" unit="word"/><pause type="medium" dur="PT10s"/>
                     Per la religione non si può 
-                    <orig>mangia'</orig>
+                    <orig>mangià</orig>
                     <reg>mangiare</reg> 
                     maiale? Ma qui si pappano tutto! Quando si bruciano tutti! <gap reason="inaudible" extent="7" unit="word"/>
                     <unclear reason="inaudible" cert="low">Anche perché Dio va a vedere se mangiano il maiale e non va vedere quando si 
@@ -3666,9 +3651,9 @@
                     <gap reason="inaudible" extent="1" unit="word"/>domandaglielo, perché 
                     <orig>c'abbiamo</orig>
                     <reg>abbiamo</reg> 
-                    lo stesso malanno,<pause type="short"/>lo stesso male 
-                    <orig>c'abbiamo</orig>
-                    <reg>abbiamo</reg>, 
+                    lo stesso malanno,<pause type="short"/> lo stesso male 
+                    <orig>c'abbiamo</orig>,
+                    <reg>abbiamo</reg> 
                     perché noi di qua e lui di qua!<pause type="medium" dur="PT9s"/>
                     <kinesic>
                         <desc>si intuisce che Ida stia mostrando la posizione dei due campi</desc>
@@ -3680,18 +3665,18 @@
                     <incident>
                         <desc>rumore di passi</desc>
                     </incident>    
-                    Non mi serve la sveglia,<emph>io so che a quell'ora è l'appello! E io sono in piedi!</emph>
+                    Non mi serve la sveglia, <emph>io so che a quell'ora è l'appello! E io sono in piedi!</emph>
                 </u>
                 <incident>
                     <desc>squilla un telefono</desc>
                 </incident>
             </div>
             <div type="extraIntervista8">
-                <u who="VOCE_UOMO" xml:id="vu1" synch="#tlp559">Sei tu?<gap reason="inaudible" extent="5" unit="word"/></u>
+                <u who="#VOCE_UOMO" xml:id="vu1" synch="#tlp559">Sei tu?<gap reason="inaudible" extent="5" unit="word"/></u>
                 <u who="#MARCHERIA" xml:id="m269" synch="#tlp560">No!</u>
-                <u who="VOCE_UOMO" xml:id="vu2" synch="#tlp561">Ho mandato un messaggio ad Alberto perché<gap reason="inaudible" extent="5" unit="word"/></u>
+                <u who="#VOCE_UOMO" xml:id="vu2" synch="#tlp561">Ho mandato un messaggio ad Alberto perché<gap reason="inaudible" extent="5" unit="word"/></u>
                 <u who="#MARCHERIA" xml:id="m270" synch="#tlp562">Ma va!</u>
-                <u who="VOCE_UOMO" xml:id="vu3" synch="#tlp563">Sì, pronto? Ciao, come stai?<gap reason="inaudible" extent="3" unit="word"/></u>
+                <u who="#VOCE_UOMO" xml:id="vu3" synch="#tlp563">Sì, pronto? Ciao, come stai?<gap reason="inaudible" extent="3" unit="word"/></u>
             </div>
             <div type="intervista10">    
                 <u who="#AS" xml:id="a144" synch="#tlp564">L'idea è quella che, se questa cosa è possibile, per l'animo umano, perché quelli erano amati 
@@ -3699,7 +3684,7 @@
                     L'idea mia è: se questo è stato possibile per degli altri esseri umani, allora ci deve essere un cammino
                     <pause type="short"/> tale<pause type="short"/> 
                     per cui tu puoi arrivare a quel punto <pause type="short"/> e fare questo che io non so,<pause type="short"/> 
-                    perché io non so, però<pause type="short"/>immagino, e comunque la mia immaginazione non arriva.
+                    perché io non so, però <pause type="short"/>immagino, e comunque la mia immaginazione non arriva.
                     <anchor synch="#tls223"/>No?
                     <anchor synch="#tls224"/>
                 </u>
@@ -3731,13 +3716,14 @@
                 </u>
                 <incident>
                     <desc>rumore del registratore</desc>
-                </incident>   
+                </incident>
+            </div>     
 
-                <!-- Fine cassetta -->
-
-                <!-- Nuova cassetta -->
-
-                <u who="#GP" xml:id="g136" synch="#tlp568">Perché hanno visto svastiche di nuovo sui 
+            
+            <ab type="cambio cassetta" />
+            
+            <div type="intervista10">    
+                <u who="#GP" xml:id="g136" synch="#tlp568">Perché hanno visto svastiche di nuovo <del type="reformulation">sui</del> 
                     <anchor synch="#tls229"/><gap reason="inaudible" extent="3" unit="word"/> e hanno parlato per quello. 
                     <anchor synch="#tls230"/>  
                 </u>
@@ -3750,20 +3736,20 @@
                     <gap reason="inaudible" extent="3" unit="word"/> 
                 </u>
                 <u who="#GP" xml:id="g137" synch="#tlp570">Però c'è stato un momento che lei ha deciso di parlare!</u>
-                <u who="#MARCHERIA" xml:id="m274" synch="#tlp571"><vocal><desc>Mah</desc></vocal>! Non è che ho deciso, <persName ref="#MP">Pezzetti</persName> 
+                <u who="#MARCHERIA" xml:id="m274" synch="#tlp571"><vocal><desc>Mah</desc></vocal>Non è che ho deciso, <persName ref="#MP">Pezzetti</persName> 
                     <del type="reformulation">ha preso</del> 
                     m'ha preso di contropiede a dire la verità. Ero a pranzo da <persName ref="#PT">Piero</persName> 
-                    e <persName ref="#PT">Piero</persName> gli ha telefonato, mi dice 
-                    <q type="spoken" who="#PT" toWhom="#MARCHERIA"> Mi fai un piacere, <persName ref="#MP">Marcello</persName>che ti vuole</q> 
-                    perché <persName ref="#MP">Marcello</persName> ha telefonato, io non lo facevo manco parlare! 
-                    Lui ride <persName ref="#MP">Marcello</persName>, perché sapeva che ci sono! Mi diceva 
-                    <q type="spoken" who="#MP" toWhom="#MARCHERIA">Ma ci sei?</q> 
+                    e <persName ref="#PT">Piero</persName> gli ha telefonato, mi dice: 
+                    <q type="spoken" who="#PT" toWhom="#MARCHERIA"> "Mi fai un piacere, <persName ref="#MP">Marcello</persName> che ti vuole"</q> 
+                    Perché <persName ref="#MP">Marcello</persName> ha telefonato, io non lo facevo manco parlare! 
+                    Lui ride, <persName ref="#MP">Marcello</persName>, perché sapeva che ci sono! Mi diceva: 
+                    <q type="spoken" who="#MP" toWhom="#MARCHERIA">"Ma ci sei?"</q> 
                     Gli ho detto: 
-                    <q type="spoken" who="#MARCHERIA" toWhom="#MP">Ma io non so se non lo voglio conoscere</q>
-                    <q type="spoken" who="#MP" toWhom="#MARCHERIA">Non l'ho mai conosciuta una persona che è stata al 
-                        <orgName ref="#KA">Kanàda</orgName>!</q> 
-                    <q type="spoken" who="#MARCHERIA" toWhom="#MP">Allora la venga a conoscere</q> gli ho detto.
-                    E allora è venuto, e poi chiacchera, chiacchera ha girato <supplied resp="ED">i documentari</supplied>
+                    <q type="spoken" who="#MARCHERIA" toWhom="#MP">"Ma io non so se non lo voglio conoscere"</q>
+                    <q type="spoken" who="#MP" toWhom="#MARCHERIA">"Non l'ho mai conosciuta una persona che è stata al 
+                        <orgName ref="#KA">Kanàda</orgName>!"</q> 
+                    <q type="spoken" who="#MARCHERIA" toWhom="#MP">"Allora la venga a conoscere"</q>, gli ho detto.
+                    E allora è venuto, e poi chiacchera, chiacchera ha girato <supplied resp="ED">i documentari.</supplied>
                     Ma non è che volevo parlare! Non volevo parlare perché tanto,<pause type="short"/> 
                     non credo che nessuno voglia sentirmi! 
                     Adesso tutti vogliono sapere, perché non lo so, perché, un po' scrivono, un po' cosano 
@@ -3778,11 +3764,11 @@
                 </u>
                 <u who="#AS" xml:id="a146" synch="#tlp572">
                     <bibl>
-                        <title type="main">LENONPERSONE</title>
-                    </bibl>, sì!    
+                        <title type="main">LENONPERSONE</title>,
+                    </bibl> sì!    
                 </u>
                 <u who="#MARCHERIA" xml:id="m275" synch="#tlp573">Sì, <del type="reformulation">lui è stato</del> 
-                    Anche<persName ref="#PT">Piero</persName>. 
+                    Anche <persName ref="#PT">Piero</persName>. 
                     <anchor synch="#tls231"/><shift feature="voice" new="giggle"/><persName ref="#PT">Piero</persName>
                     <anchor synch="#tls232"/>  
                 </u>
@@ -3799,7 +3785,7 @@
                     <del type="reformulation">abbiamo preso pure</del> 
                     la trasmissione è stata premiata,<vocal><desc>eh</desc></vocal>!
                 </u>
-                <u who="#GP" xml:id="g138" synch="#tlp576"><vocal><desc>Eh</desc></vocal>, c'è scritto là!</u>
+                <u who="#GP" xml:id="g138" synch="#tlp576"><vocal><desc>Eh</desc></vocal>C'è scritto là!</u>
                 <u who="#MARCHERIA" xml:id="m277" synch="#tlp577">Dove?</u>
                 <u who="#GP" xml:id="g139" synch="#tlp578">Là!</u>
                 <kinesic>
@@ -3841,14 +3827,14 @@
                 </u>
                 <u who="#GP" xml:id="g141" synch="#tlp583">Hai capito? Non l'ha tenuto lui!</u>
                 <u who="#AS" xml:id="a149" synch="#tlp584">Fosse qui nel laboratorio!</u>
-                <u who="#MARCHERIA" xml:id="m280" synch="#tlp585">Sì! Lui l'ha portato, ha detto 
-                    <q type="spoken" who="#RO" toWhom="#MARCHERIA">No! È giusto che stia qui con la fotografia della
+                <u who="#MARCHERIA" xml:id="m280" synch="#tlp585">Sì! Lui l'ha portato, ha detto: 
+                    <q type="spoken" who="#RO" toWhom="#MARCHERIA">"No! È giusto che stia qui con la fotografia della
                         <persName ref="#Stella">Stellina</persName>  
                         perché <del type="reformulation">la Stelli</del> è stata dedicata tutta la trasmissione alla 
-                        <persName ref="#Stella">Stellina</persName>!
+                        <persName ref="#Stella">Stellina</persName>!"
                     </q> 
-                    <del type="reformulation">E anche</del> a <placeName ref="#RI">Rimini</placeName><vocal><desc>Ah</desc></vocal>, 
-                    perché poi una <del type="correction">sign</del> professoressa ha scritto un libretto di poesie, ha scritto una 
+                    E anche a <placeName ref="#RI">Rimini</placeName>!<vocal><desc>Ah</desc></vocal> 
+                    Perché poi una <del type="correction">sign</del> professoressa ha scritto un libretto di poesie, ha scritto una 
                     <anchor synch="#tls237"/>poesia
                     <anchor synch="#tls238"/>
                 </u>
@@ -3871,7 +3857,7 @@
                     e certo, dal <date when="1938">38</date> dalle leggi razziali, tutto è cominciato.
                 </u>
                 <u who="#MARCHERIA" xml:id="m282" synch="#tlp589">
-                    <anchor synch="#tls239"/>Ma due anni ma dal <del type="repetition">dal</del>
+                    <anchor synch="#tls239"/><del type="reformulation">Ma due anni ma dal</del><del type="repetition">dal</del>
                     <anchor synch="#tls240"/> 
                     Sì ma 
                     <anchor synch="#tls241"/><del type="reformulation">l'esta</del>
@@ -3881,7 +3867,7 @@
                     <shift feature="loud" new="normal"/><del type="reformulation">come si di</del><emph>non so spiegare</emph>!
                 </u>
                 <u who="#GP" xml:id="g143" synch="#tlp590">
-                    <anchor synch="#tls241"/>prima
+                    <anchor synch="#tls241"/><del type="reformulation">prima</del>
                     <anchor synch="#tls242"/>  
                     <emph>Certo</emph>!
                 </u>
@@ -3898,7 +3884,7 @@
                     una persona si può definire grande insomma. Sempre così giovane, sempre così ingenua, così inesperta della vita
                 </u>
                 <u who="#MARCHERIA" xml:id="m284" synch="#tlp593"><persName ref="#SV">Shlomo</persName>?</u>
-                <u who="#GP" xml:id="g145" synch="#tlp594"><vocal><desc>Beh</desc></vocal>, no, dico in 
+                <u who="#GP" xml:id="g145" synch="#tlp594"><vocal><desc>Beh</desc></vocal>No, dico in 
                     <anchor synch="#tls243"/>generale
                     <anchor synch="#tls244"/>
                     una persona a 
@@ -3971,12 +3957,12 @@
                 <u who="#AS" xml:id="a154" synch="#tlp604"><emph>L'ho imparato!</emph> 
                     <anchor synch="#tls253"/><emph>Da <del type="repetition">da da</del> mio papà!</emph>
                     <anchor synch="#tls254"/>    
-                    <vocal><desc>Eh</desc></vocal>,<shift feature="voice" new="giggle"/> cioè, lei a sue 
+                    <vocal><desc>Eh</desc></vocal><shift feature="voice" new="giggle"/> Cioè, lei a sue 
                     
                     <anchor synch="#tls255"/>spese
                     <anchor synch="#tls256"/>
                     <shift feature="voice" new="normal"/>
-                    E io dalle spese di papà voglio dire, <vocal><desc>no?</desc></vocal> Di mamma! 
+                    e io dalle spese di papà voglio dire, <vocal><desc>no?</desc></vocal> di mamma! 
                     Cioè in qualche modo è <del type="correction">quasta</del> 
                     questo qua è un male che si è ereditato, <pause type="short"/>
                     cioè noi non abbiamo l'incanto che avete avuto voi arrivando dopo. 
@@ -4000,12 +3986,12 @@
                     <anchor synch="#tls258"/> 
                     Vero! Non ce le leva nessuno! Appunto!<pause type="short"/> 
                     Ma mi dispiace che vi ho rattristate! Io, <del type="repetition">io</del> lo so che non è 
-                    <supplied resp="ED">leggero</supplied> 
+                    <supplied resp="ED">da dire</supplied> 
                 </u>
                 <u who="#AS" xml:id="a156" synch="#tlp609">Lei è di una chiarezza spalancante!<pause type="short"/> Quando lei parla io vedo le cose!</u>
                     <pause type="medium" dur="PT13s"/>
                 <u who="#MARCHERIA" xml:id="m292" synch="#tlp610"><shift feature="voice" new="trem"/>Mi dispiace che non ci siamo conosciute prima!</u>
-                <u who="#AS" xml:id="a157" synch="#tlp611"><shift feature="voice" new="trem"/>Va beh</u>
+                <u who="#AS" xml:id="a157" synch="#tlp611"><shift feature="voice" new="trem"/> E va <vocal><desc>beh</desc></vocal></u>
                 <u who="#MARCHERIA" xml:id="m293" synch="#tlp612"><shift feature="voice" new="trem"/>Perché una bella amicizia, lo sento, 
                     <anchor synch="#tls259"/>no?
                     <anchor synch="#tls260"/>  
@@ -4047,13 +4033,13 @@
                     <anchor synch="#tls266"/>donne?
                     <anchor synch="#tls267"/>
                     Non
-                    <orig>ce stanno</orig>
-                    <reg>ci sono</reg>!
+                    <orig>ce stanno</orig>!
+                    <reg>ci sono</reg>
                 </u>
                 <u who="#AS" xml:id="a160" synch="#tlp620">
                     <anchor synch="#tls266"/>Non 
-                        <orig>ce stanno</orig>
-                        <reg>ci sono</reg>!
+                        <orig>ce stanno</orig>!
+                        <reg>ci sono</reg>
                     <anchor synch="#tls267"/>    
                 </u>
                 <u who="#MARCHERIA" xml:id="m296" synch="#tlp621"><persName ref="SS">Settimia</persName> non c'è più,<pause type="short"/> 
@@ -4084,8 +4070,8 @@
                     <anchor synch="#tls270"/>Le cose, <del type="repetition">le cose</del>
                     <anchor synch="#tls271"/>  
                     che lei ha visto. <pause type="short"/>
-                    Perché io ho visto il film, lei aveva proprio una grazia nel dire 
-                    <vocal><desc>Va beh</desc></vocal>, questo te lo lascio, ti dico questo che già
+                    Perché io ho visto il film, lei aveva proprio una grazia nel dire, 
+                    <vocal><desc>va beh</desc></vocal>questo te lo lascio, ti dico questo che già
                 </u>
                 <u who="#MARCHERIA" xml:id="m298" synch="#tlp628">
                     <anchor synch="#tls272"/><emph>È tanto!</emph>
@@ -4094,15 +4080,16 @@
                 <u who="#AS" xml:id="a164" synch="#tlp629">
                     <anchor synch="#tls272"/><emph>Già è tanto!</emph>
                     <anchor synch="#tls273"/>   
-                    Quindi lei aveva questa, questa grazia che insomma <pause type="short"/>
+                    Quindi lei aveva questa, <del type="repetition">questa</del> grazia che insomma <pause type="short"/>
                 </u>
                 <u who="#MARCHERIA" xml:id="m299" synch="#tlp630"><shift feature="voice" new="trem"/>Sì, 
                     era brava <persName ref="SS">Settimia</persName>
                 </u>
                 <incident>
-                    <desc>rumore del registratore che viene spento</desc>
+                    <desc>rumore del registratore</desc>
                 </incident>
             </div>
+
         </body> 
         <back>
             <listOrg>
@@ -4261,6 +4248,36 @@
                 <person xml:id="RIN">
                     <persName>
                         <forename>Rina</forename>
+                        <surname></surname>
+                    </persName>
+                </person>
+                <person xml:id="MAIKELE">
+                    <persName>
+                        <forename>Maikele</forename>
+                        <surname></surname>
+                    </persName>
+                </person>
+                <person xml:id="NI">
+                    <persName>
+                        <forename>Nì</forename>
+                        <surname></surname>
+                    </persName>
+                </person>
+                <person xml:id="VOCE_DONNA">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                </person>
+                <person xml:id="NANNY">
+                    <persName>
+                        <forename></forename>
+                        <surname></surname>
+                    </persName>
+                </person>
+                <person xml:id="VOCE_UOMO">
+                    <persName>
+                        <forename></forename>
                         <surname></surname>
                     </persName>
                 </person>
