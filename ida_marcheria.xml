@@ -58,19 +58,19 @@
                 <!-- descrizione dei partecipanti: descrive parlanti, voci o altri parlanti identificabili in una interazione linguistica-->
                 <listPerson>
                     <person xml:id="MARCHERIA">
-                        <persName>
+                        <persName ref="https://it.wikipedia.org/wiki/Ida_Marcheria">
                             <forename>Ida</forename>
                             <surname>Marcheria</surname>
                         </persName>
                     </person>
                     <person xml:id="AS">
-                        <persName>
+                        <persName ref="http://www.annasegre.it/">
                             <forename>Anna</forename>
                             <surname>Segre</surname>
                         </persName>
                     </person>
                     <person xml:id="GP">
-                        <persName>
+                        <persName ref="http://www.lastambergadeilettori.com/2010/01/intervista-anna-segre-e-gloria.html">
                             <forename>Gloria</forename>
                             <surname>Pavoncello</surname>
                         </persName>
