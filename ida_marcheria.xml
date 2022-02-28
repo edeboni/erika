@@ -4,7 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Testimonianza di Ida Marcheria del 2006. Una ragazza del Kanàda.</title>
+                <title type="main">Testimonianza di Ida Marcheria.</title> 
+                <title type="sub">Una ragazza del Kanàda Kommando.</title>
             </titleStmt>
             <editionStmt>
                 <edition>Lavoro realizzato per la tesi di Laurea Triennale in Informatica Umanistica, Università di Pisa.</edition>
