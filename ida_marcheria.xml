@@ -4129,7 +4129,7 @@
                     </persName>
                 </person>
                 <person xml:id="AM">
-                    <persName ref="https://anpi.it/media/uploads/patria/2006/3/35_SETTIMELLI_LEONCARLO.pdf">
+                    <persName ref="https://www.alinari.it/it/dettaglio/TEA-S-494124-B25B">
                         <forename>Adriano</forename>
                         <surname>Mordenti</surname>
                     </persName>
@@ -4159,9 +4159,8 @@
                     </persName>
                 </person>
                 <person xml:id="interprete">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                    <persName ref="https://www.treccani.it/vocabolario/interprete/">
+                        <roleName>Interprete</roleName>
                     </persName>
                 </person>
                 <person xml:id="ST">
@@ -4171,22 +4170,20 @@
                     </persName>
                 </person>
                 <person xml:id="donna">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                    <persName ref="https://www.rainews.it/archivio-rainews/media/ida-marcheria-bc83a589-0137-4e87-b24a-ca7d22255122.html">
+                        <roleName>Donna: lavoratrice nella cioccolateria di Ida Marcheria</roleName>
                     </persName>
                 </person>
                 <person xml:id="treItaliane">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                    <persName ref="https://www.treccani.it/vocabolario/deportare/">
+                        <roleName>Tre italiane: donne italiane deportate</roleName>
                     </persName>
                 </person>
                 <person xml:id="Micha">
-                    <persName>
+                    <persName ref="https://www.rainews.it/archivio-rainews/media/ida-marcheria-bc83a589-0137-4e87-b24a-ca7d22255122.html">
                         <forename>Micha</forename>
-                        <surname></surname>
-                    </persName>
+                        <roleName>Lavoratore nella cioccolateria di Ida Marcheria</roleName>
+                    </persName>   
                 </person>
                 <person xml:id="Giacomo">
                     <persName ref="http://digital-library.cdec.it/cdec-web/persone/detail/person-7349/marcaria-giacomo.html">
@@ -4201,10 +4198,9 @@
                     </persName>
                 </person>
                 <person xml:id="Ufficiale">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
-                    </persName>
+                    <persName ref="https://it.wikipedia.org/wiki/Ufficiali_e_personalit%C3%A0_delle_Schutzstaffel">
+                        <roleName>Ufficiale delle SS</roleName>
+                    </persName>    
                 </person>
                 <person xml:id="RDS">
                     <persName ref="https://www.radioradicale.it/soggetti/222270/raffaele-di-segni#!slide">
@@ -4213,9 +4209,8 @@
                     </persName>
                 </person>
                 <person xml:id="dueSconosciuti">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                    <persName ref="https://www.treccani.it/enciclopedia/soldato/#:~:text=soldato%20In%20origine%2C%20chi%20era,attivit%C3%A0%20mercenaria%20n%C3%A9%20connotazione%20spregiativa.">
+                        <roleName>Due sconosciuti: ipotizzo due soldati</roleName>
                     </persName>
                 </person>
                 <person xml:id="MP">
@@ -4237,39 +4232,37 @@
                     </persName>
                 </person>
                 <person xml:id="RIN">
-                    <persName>
+                    <persName ref="https://www.treccani.it/vocabolario/deportare/">
                         <forename>Rina</forename>
-                        <surname></surname>
+                        <roleName>donna deportata</roleName>
                     </persName>
                 </person>
                 <person xml:id="MAIKELE">
-                    <persName>
+                    <persName ref="https://www.rainews.it/archivio-rainews/media/ida-marcheria-bc83a589-0137-4e87-b24a-ca7d22255122.html" >
                         <forename>Maikele</forename>
-                        <surname></surname>
+                        <roleName>Lavoratore nella cioccolateria di Ida Marcheria</roleName>
                     </persName>
                 </person>
                 <person xml:id="NI">
-                    <persName>
+                    <persName ref="https://www.rainews.it/archivio-rainews/media/ida-marcheria-bc83a589-0137-4e87-b24a-ca7d22255122.html">
                         <forename>Nì</forename>
-                        <surname></surname>
+                        <roleName>Lavoratrice nella cioccolateria di Ida Marcheria</roleName>
                     </persName>
                 </person>
                 <person xml:id="VOCE_DONNA">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                    <persName ref="https://www.rainews.it/archivio-rainews/media/ida-marcheria-bc83a589-0137-4e87-b24a-ca7d22255122.html">
+                        <roleName>Lavoratrice nella cioccolateria di Ida Marcheria</roleName>
                     </persName>
                 </person>
                 <person xml:id="NANNY">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                    <persName ref="https://www.rainews.it/archivio-rainews/media/ida-marcheria-bc83a589-0137-4e87-b24a-ca7d22255122.html">
+                        <addName>Nanny</addName>
+                        <roleName>Voce donna: la voce di una lavoratrice nella cioccolateria di Ida Marcheria</roleName>
                     </persName>
                 </person>
                 <person xml:id="VOCE_UOMO">
-                    <persName>
-                        <forename></forename>
-                        <surname></surname>
+                    <persName ref="https://www.rainews.it/archivio-rainews/media/ida-marcheria-bc83a589-0137-4e87-b24a-ca7d22255122.html">
+                        <roleName>Voce uomo: la voce di un lavoratore nella cioccolateria di Ida Marcheria</roleName>
                     </persName>
                 </person>
             </listPerson>
