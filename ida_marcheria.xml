@@ -4296,7 +4296,7 @@
                     <placeName xml:id="ROMA" ref="https://it.wikipedia.org/wiki/Roma">Roma</placeName>
                 </place>
                 <place>
-                    <placeName xml:id="TS" ref="https://it.wikipedia.org/wiki/Trieste">Roma</placeName>
+                    <placeName xml:id="TS" ref="https://it.wikipedia.org/wiki/Trieste">Trieste</placeName>
                 </place>
                 <place>
                     <placeName xml:id="CO" ref="https://it.wikipedia.org/wiki/Corf%C3%B9">Corfù</placeName>
