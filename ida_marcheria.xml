@@ -4269,55 +4269,119 @@
             </listPerson>
             <listPlace>
                 <place>
-                    <placeName xml:id="AU" ref="https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Auschwitz">Auschwitz</placeName>
+                    <placeName xml:id="CC" ref="https://www.giustizia.it/giustizia/it/dettaglio_scheda.page?s=MII181661">Carcere del Coroneo</placeName>
+                    <location>
+                        <geo>45.6554632 13.7809946</geo>
+                    </location>
                 </place>
                 <place>
-                    <placeName xml:id="FI" ref="https://it.wikipedia.org/wiki/Firenze">Firenze</placeName>
+                    <placeName xml:id="AU" ref="https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Auschwitz">Auschwitz</placeName>
+                    <location>
+                        <geo>50.0267409 19.203459</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="BI" ref="https://it.wikipedia.org/wiki/Campo_di_sterminio_di_Birkenau">Birkenau</placeName>
+                    <location>
+                        <geo>50.03459760000001 19.1758411</geo>
+                    </location>
                 </place>
                 <place>
-                    <placeName xml:id="BIA" ref="https://it.wikipedia.org/wiki/Bia%C5%82ystok">Bialystok</placeName>
-                </place>
-                <place>
-                    <placeName xml:id="RA" ref="https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Ravensbr%C3%BCck">Ravensbrük</placeName>
+                    <placeName xml:id="RA" ref="https://it.wikipedia.org/wiki/Campo_di_concentramento_di_Ravensbr%C3%BCck">Ravensbrück</placeName>
+                    <location>
+                        <geo>53.1911152 13.1668637</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="MAL" ref="https://en.wikipedia.org/wiki/Malchow">Malkow</placeName>
-                </place>
-                <place>
-                    <placeName xml:id="LU" ref="https://it.wikipedia.org/wiki/Lubecca">Lubecca</placeName>
+                    <location>
+                        <geo>53.47508475000001 12.4153292</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="LUN" ref="https://it.wikipedia.org/wiki/Luneburgo">Lüneburg</placeName>
+                    <location>
+                        <geo>53.23905385 10.4226391</geo>
+                    </location>
                 </place>
                 <place>
-                    <placeName xml:id="ROMA" ref="https://it.wikipedia.org/wiki/Roma">Roma</placeName>
+                    <placeName xml:id="LU" ref="https://it.wikipedia.org/wiki/Lubecca">Lubecca</placeName>
+                    <location>
+                        <geo>53.88100065 10.7613755</geo>
+                    </location>
+                </place>
+                <place>
+                    <placeName xml:id="AMB" ref="https://it.wikipedia.org/wiki/Amburgo">Amburgo</placeName>
+                    <location>
+                        <geo>53,558572 9,9278215</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="TS" ref="https://it.wikipedia.org/wiki/Trieste">Trieste</placeName>
+                    <location>
+                        <geo>45.6500606 13.7699074</geo>
+                    </location>
                 </place>
                 <place>
+                    <placeName xml:id="FI" ref="https://it.wikipedia.org/wiki/Firenze">Firenze</placeName>
+                    <location>
+                        <geo>43.77995815 11.2409679</geo>
+                    </location>
+                </place>
+                <place>
+                    <placeName xml:id="BIA" ref="https://it.wikipedia.org/wiki/Bia%C5%82ystok">Bialystok</placeName>
+                    <location>
+                        <geo>53.12762524999999 23.15606585</geo>
+                    </location>
+                </place>
+                <place>
+                    <placeName xml:id="ROMA" ref="https://it.wikipedia.org/wiki/Roma">Roma</placeName>
+                    <location>
+                        <geo>41.9100711 12.5359979</geo>
+                    </location>
+                </place>
+                
+                <place>
                     <placeName xml:id="CO" ref="https://it.wikipedia.org/wiki/Corf%C3%B9">Corfù</placeName>
+                    <location>
+                        <geo>39.59129955 19.87559</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="DEU" ref="https://it.wikipedia.org/wiki/Germania">Germania</placeName>
+                    <location>
+                        <geo>51.17580574999999 10.45411935</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="PL" ref="https://it.wikipedia.org/wiki/Polonia">Polonia</placeName>
+                    <location>
+                        <geo>51.95375055 19.1343786</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="MV" ref="https://www.romevaticancard.com/it/quartieri-di-roma-monteverde/">Monteverde</placeName>
+                    <location>
+                        <geo>41.88004015000001 12.463194</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="H" ref="https://it.wikipedia.org/wiki/Ungheria">Ungheria</placeName>
+                    <location>
+                        <geo>47.16116145 19.5049258</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="RI" ref="https://it.wikipedia.org/wiki/Rimini">Rimini</placeName>
+                    <location>
+                        <geo>44.05346335 12.574687</geo>
+                    </location>
                 </place>
                 <place>
                     <placeName xml:id="IT" ref="https://it.wikipedia.org/wiki/Italia">Italia</placeName>
+                    <location>
+                        <geo>42.47209690919285 12.695141277482028</geo>
+                    </location>
                 </place>
             </listPlace>
             <listRelation>
