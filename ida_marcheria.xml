@@ -132,7 +132,7 @@
                             di chilomentri a piedi, di corsa senza cibo, acqua, senza la possibilità di fermasi, pena una pallottola in 
                             fronte o la morte sbranato dai cani. 
                             <persName ref="#MARCHERIA">Ida</persName> e <persName ref="#Stella">Stellina</persName>
-                            vengono condotte prima a <placeName ref="#RA">Ravensbrük</placeName>, poi a 
+                            vengono condotte prima a <placeName ref="#RA">Ravensbrück</placeName>, poi a 
                             <placeName ref="#MAL">Malkow</placeName>, e poi di ritorno, in quanto i campi erano 
                             pieni e regnava il caos. Durante la marcia di ritorno, incontrano i soldati americani che le aiutano e le
                             ragazze capiscono di essere finalmente libere. Inizia così il lungo percorso per il ritorno in 
@@ -1802,7 +1802,7 @@
                 <u who="#MARCHERIA" xml:id="m53" synch="#tlp120">
                     <anchor synch="#tls53"/>E perché non volevano
                     <anchor synch="#tls54"/>
-                    che noi sapessimo? Perché probabilmente se a me m'avessero torturato, io avrei detto si lo hanno fatto, 
+                    che noi sapessimo? Perché probabilmente se a me m'avessero torturato, io avrei detto sì lo hanno fatto, 
                     <del type="truncation">l'hanno paga</del> 
                     io ho il terrore del <del type="repetition">del</del> male, il terrore! A me non
                     <orig>me</orig>
@@ -2067,8 +2067,8 @@
                     io alla mattina tornavo, ne mettevo subito un altro, <del type="reformulation">si faceva</del> 
                     si poteva fare questo, ma non che mi mettevo calze di seta e ogni giorno un vestito perché noi avevamo la 
                     <del type="repetition">la</del> 
-                    visita tutti i giorni, tutti i giorni noi dovevamo passare la visita, l'ufficiale stava sul 
-                    <del type="correction">tavol</del> sul tavolo di legno e ancora adesso c'è ad 
+                    visita tutti i giorni, tutti i giorni noi dovevamo passare la visita, l'ufficiale stava 
+                    <del type="correction"> sul tavol</del> sul tavolo di legno e ancora adesso c'è ad 
                     <placeName ref="#AU">Auschwitz</placeName>, così, con il piede così
                     <kinesic>
                         <desc>si intuisce che Ida stia mostrando la posizione dell'ufficiale</desc>
@@ -2577,7 +2577,7 @@
                     <anchor synch="#tls115"/> 
                     stessa cosa
                 </u>
-                <u who="#MARCHERIA" xml:id="m158" synch="#tlp314"><emph>E tutto da noi arrivava!</emph> Io sapevo sempre se arrivava un trasposto olandese, 
+                <u who="#MARCHERIA" xml:id="m158" synch="#tlp314"><emph>E tutto da noi arrivava!</emph> Io sapevo sempre se arrivava un trasporto olandese, 
                     <del type="reformulation">se arrivava un trasporto</del> 
                     perché c'avevano i soldini, al più qualche giornale, ma era proibito toccare i giornali, <emph>non si doveva!</emph> 
                     E qualche libro,<pause type="short"/> era proibito<pause type="short"/>, gli orologi
@@ -2686,7 +2686,7 @@
                         <desc>sirena di un'ambulanza</desc>
                     </incident>
                     senza mangiare, senza lavarsi, <del type="reformulation">senza</del><pause type="short"/> 
-                    Freddo,<pause type="short"/> freddo,<pause type="short"/> <emph>il era freddo bestiale!</emph> 
+                    Freddo,<pause type="short"/> freddo,<pause type="short"/> <emph>il freddo era bestiale!</emph> 
                     L'appello, tante ore d'appello, la mattina, ora che <del type="repetition">che</del> 
                     gli ufficiali,<del type="reformulation">che poi c'è la</del><del type="repetition">la</del>
                     voi ci siete state ad <placeName ref="#AU">Auschwitz?</placeName>
@@ -2708,7 +2708,7 @@
                 <u who="#MARCHERIA" xml:id="m173" synch="#tlp348">Quando eravamo tutte ben gelate,<gap reason="slurred" extent="2" unit="word"/> 
                     allora <del type="repetition">
                     allora</del>arrivavano a contarci.<pause type="medium" dur="PT4s"/> Era tutto predisposto per la sofferenza, 
-                    <anchor synch="#tls132"/>per l'anniettamento
+                    <anchor synch="#tls132"/>per l'annientamento
                     <anchor synch="#tls133"/> 
                 </u>
                 <u who="#AS" xml:id="a84" synch="#tlp349">
@@ -3081,7 +3081,7 @@
                 </u>
                 <u who="#MARCHERIA" xml:id="m212" synch="#tlp436">Sì.</u>
                 <u who="#GP" xml:id="g107" synch="#tlp437">Perché le donne hanno fatto la loro marcia, lei dove è andata a 
-                    <placeName ref="#RA">Ravensbrük</placeName>?
+                    <placeName ref="#RA">Ravensbrück</placeName>?
                 </u>
                 <u who="#MARCHERIA" xml:id="m213" synch="#tlp438">Sì!</u>
                 <u who="#GP" xml:id="g108" synch="#tlp439">Perché so che le donne le mandavano lì.<pause type="short"/></u>
@@ -3115,8 +3115,8 @@
                     <anchor synch="#tls181"/><unclear reason="inaudible">Aperti</unclear>
                     <anchor synch="#tls182"/>
                 </u>     
-                <u who="#MARCHERIA" xml:id="m220" synch="#tlp451">Sì, e con quelli siamo arrivati a <placeName ref="#RA">Ravensbrük</placeName>.<pause type="short"/>
-                    E a <placeName ref="#RA">Ravensbrük</placeName>
+                <u who="#MARCHERIA" xml:id="m220" synch="#tlp451">Sì, e con quelli siamo arrivati a <placeName ref="#RA">Ravensbrück</placeName>.<pause type="short"/>
+                    E a <placeName ref="#RA">Ravensbrück</placeName>
                     poi ci hanno fatto camminare fino a <placeName ref="#MAL">Malkow</placeName> in un altro campo, 
                     poi ci hanno riportato perché c'era già il caos: non ci davano da mangiare, non ci contavano, 
                     <del type="reformulation">non ci</del> Lì c'era il caos. E ancora non avevamo capito che era la disfatta, che 
@@ -3127,7 +3127,7 @@
                     <incident>
                         <desc>colpo di tosse e un cane ache abbaia</desc>
                     </incident>  
-                    hanno fatto evacuare da <placeName ref="#RA">Ravensbrük</placeName> delle ragazze francesi. 
+                    hanno fatto evacuare da <placeName ref="#RA">Ravensbrück</placeName> delle ragazze francesi. 
                     Perché la <orgName ref="#CR">Croce Rossa</orgName>, che noi non abbiamo <emph>mai, mai visto</emph> 
                     in due anni, schifosi, 
                     <incident>
@@ -3775,7 +3775,7 @@
                     lui ha fatto <del type="reformulation">la</del> 
                     questa cosa di <pause type="short"/> <placeName ref="#AU">Auschwitz</placeName> cioccolato,
                     <del type="reformulation">abbiamo preso pure</del> 
-                    la trasmissione è stata premiata,<vocal><desc>eh</desc></vocal>!
+                    la trasmissione è stata premiata<vocal><desc>eh</desc></vocal>!
                 </u>
                 <u who="#GP" xml:id="g138" synch="#tlp576"><vocal><desc>Eh</desc></vocal>C'è scritto là!</u>
                 <u who="#MARCHERIA" xml:id="m277" synch="#tlp577">Dove?</u>
@@ -3924,7 +3924,7 @@
                 <u who="#AS" xml:id="a152" synch="#tlp600">Io nella mia testa 
                     <orig>c'ho</orig>
                     <reg>ho</reg>
-                    che tutto è possibile, poi no so quanto di tutto questo tutto che io penso che sia possibile,
+                    che tutto è possibile, poi non so quanto di tutto questo tutto che io penso che sia possibile,
                     <incident>
                         <desc>rumore di passi</desc>
                     </incident>   
