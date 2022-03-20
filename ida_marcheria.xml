@@ -527,6 +527,7 @@
 
         <!--Timeline cambio di parlante TLP-->
         <timeline xml:id="tlp" unit="s">
+            <when xml:id="tlp0" synch="#i1" absolute="00:00:00"/>
             <when xml:id="tlp1" synch="#a1" absolute="00:00:02"/>
             <when xml:id="tlp2" synch="#g1" absolute="00:00:03"/>
             <when xml:id="tlp3" synch="#a2" absolute="00:00:04"/>
@@ -989,12 +990,12 @@
             <when xml:id="tlp460" synch="#m224" absolute="00:55:35"/>
             <when xml:id="tlp461" synch="#g115" absolute="00:56:02"/>
             <when xml:id="tlp462" synch="#a113" absolute="00:57:31"/>
-            <when xml:id="tlp463" synch="m225#" absolute="00:57:34"/>
+            <when xml:id="tlp463" synch="#m225" absolute="00:57:34"/>
             <when xml:id="tlp464" synch="#g114" absolute="00:57:38"/>
             <when xml:id="tlp465" synch="#m226" absolute="00:57:40"/>
             <when xml:id="tlp466" synch="#a114" absolute="00:59:00"/>
             <when xml:id="tlp467" synch="#m227" absolute="00:59:03"/>
-            <when xml:id="tlp468" synch="#a165" absolute="00:59:30"/>
+            <when xml:id="tlp468" synch="#g114bis" absolute="00:59:30"/>
             <when xml:id="tlp469" synch="#m228" absolute="00:59:38"/>
             <when xml:id="tlp470" synch="#a115" absolute="00:59:45"/>
             <when xml:id="tlp471" synch="#m229" absolute="00:59:58"/>
@@ -1094,7 +1095,7 @@
             <when xml:id="tlp565" synch="#m271" absolute="01:12:16"/>
             <when xml:id="tlp566" synch="#a145" absolute="01:12:18"/>
             <when xml:id="tlp567" synch="#m272" absolute="01:12:26"/>
-            <when xml:id="tlp568" synch="g136#" absolute="01:13:05"/>
+            <when xml:id="tlp568" synch="#g136" absolute="01:13:05"/>
             <when xml:id="tlp569" synch="#m273" absolute="01:13:08"/>
             <when xml:id="tlp570" synch="#g137" absolute="01:13:14"/>
             <when xml:id="tlp571" synch="#m274" absolute="01:13:17"/>
@@ -1157,12 +1158,13 @@
             <when xml:id="tlp628" synch="#m298" absolute="01:21:47"/>
             <when xml:id="tlp629" synch="#a164" absolute="01:21:48"/>
             <when xml:id="tlp630" synch="#m299" absolute="01:21:58"/>
+            <when xml:id="tlp631" synch="#i2" absolute="01:22:03"/>
         </timeline>
     </standOff>
     <text>
         <body>
             <div type="extraIntervista1">
-                <incident>
+                <incident xml:id="i1" synch="#tlp0">
                     <desc>Rumori del registratore </desc>
                 </incident>
                 <u who="#AS" xml:id="a1" synch="#tlp1">Ti davo una penna</u>
@@ -3265,7 +3267,7 @@
                     hanno bruciato tutti i campi, hanno bruciato le case, hanno fatto quello che volevano fare,<pause type="short"/>
                     ma tutti gli eserciti, credo,<pause type="short"/> tutti!
                 </u><pause type="medium" dur="PT10s"/>
-                <u who="#GP" xml:id="a165" synch="#tlp468">Settembre in Italia, avete trovato <persName ref="#Giacomo">Giacomo</persName> <pause type="short"/> 
+                <u who="#GP" xml:id="g114bis" synch="#tlp468">Settembre in Italia, avete trovato <persName ref="#Giacomo">Giacomo</persName> <pause type="short"/> 
                     subito lì alla stazione?
                 </u>
                 <incident>
@@ -4077,7 +4079,7 @@
                 <u who="#MARCHERIA" xml:id="m299" synch="#tlp630"><shift feature="voice" new="trem"/>Sì, 
                     era brava <persName ref="SS">Settimia</persName>
                 </u>
-                <incident>
+                <incident xml:id="i2" synch="#tlp631">
                     <desc>rumore del registratore</desc>
                 </incident>
             </div>
